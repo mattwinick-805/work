@@ -23,6 +23,8 @@ jobs:
         env:
           FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
         run: npx -y @noemuch/bridge-ds@7.1.3 cron --config docs.config.yaml
+      - name: Restore text-styles.json (upstream extractor writes placeholder font data)
+        run: git checkout HEAD -- bridge-ds/knowledge-base/registries/text-styles.json
       - name: Open PR if changes
         uses: peter-evans/create-pull-request@v6
         with:
