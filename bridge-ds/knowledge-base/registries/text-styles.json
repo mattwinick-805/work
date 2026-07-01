@@ -1,17 +1,291 @@
-[
-  {"key":"S:66e54cdbcae3d120a2b448d2b3561f8f9025edb6,","id":"S:66e54cdbcae3d120a2b448d2b3561f8f9025edb6,","name":"Display/8xl","description":"","fontSize":44,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":50},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:f7bcbafa49c78bd9d42ec88b246d18a0e9d2b682,","id":"S:f7bcbafa49c78bd9d42ec88b246d18a0e9d2b682,","name":"Display/7xl","description":"","fontSize":36,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":42},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:d9f359e6d1ea5a5c9b235b1424c8a09c08b5e9df,","id":"S:d9f359e6d1ea5a5c9b235b1424c8a09c08b5e9df,","name":"Display/6xl","description":"","fontSize":32,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":38},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:d36f985304087093e1fc85f9467e1d8b73df7fee,","id":"S:d36f985304087093e1fc85f9467e1d8b73df7fee,","name":"Heading/5xl","description":"H1","fontSize":28,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":34},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:61bd6a6560904bb91ed4602eac6ee3bd222998d2,","id":"S:61bd6a6560904bb91ed4602eac6ee3bd222998d2,","name":"Heading/4xl","description":"H2","fontSize":26,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":32},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:ae63c0aa45fb077509fddf034a546e07abdcca62,","id":"S:ae63c0aa45fb077509fddf034a546e07abdcca62,","name":"Heading/3xl","description":"H3","fontSize":24,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":30},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:2dfff8384e55853e600a4babaa61aec4c459a3fe,","id":"S:2dfff8384e55853e600a4babaa61aec4c459a3fe,","name":"Heading/2xl","description":"H4","fontSize":22,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":28},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:5ddd0de97c42840a15351709a5415532ecba4977,","id":"S:5ddd0de97c42840a15351709a5415532ecba4977,","name":"Title/xl","description":"Section Heading","fontSize":20,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":26},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:1533194298389a850da45d30a4afc83dbeac43c0,","id":"S:1533194298389a850da45d30a4afc83dbeac43c0,","name":"Title/lg","description":"Subheading","fontSize":18,"fontFamily":"Instrument Sans","fontStyle":"Medium","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":24},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:d6863d8ffbf600c06957d1299632c50e8a2a11b2,","id":"S:d6863d8ffbf600c06957d1299632c50e8a2a11b2,","name":"Body/base","description":"Body copy","fontSize":16,"fontFamily":"Instrument Sans","fontStyle":"Regular","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":22},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:b495dc6f89e7c36bf6248a8b293eb136b6bf2401,","id":"S:b495dc6f89e7c36bf6248a8b293eb136b6bf2401,","name":"Body/sm","description":"Compact copy","fontSize":14,"fontFamily":"Instrument Sans","fontStyle":"Medium","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":20},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:06f77a767b66d6a504fb62599069981e7adbea99,","id":"S:06f77a767b66d6a504fb62599069981e7adbea99,","name":"Label/xs","description":"Label","fontSize":12,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":1},"lineHeight":{"unit":"PIXELS","value":18},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:0e002cdfd15ea4b45c710f2664526cfa1e5b39f7,","id":"S:0e002cdfd15ea4b45c710f2664526cfa1e5b39f7,","name":"Single Line/base","description":"","fontSize":16,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":16},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:5a87e0d33f3ee9145cc8273b8e609608692f5c5e,","id":"S:5a87e0d33f3ee9145cc8273b8e609608692f5c5e,","name":"Single Line/sm","description":"","fontSize":14,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":14},"textCase":"ORIGINAL","textDecoration":"NONE"},
-  {"key":"S:d1f7e726d748039f868db4ef67a7ad760f347cd2,","id":"S:d1f7e726d748039f868db4ef67a7ad760f347cd2,","name":"Single Line/xs","description":"","fontSize":12,"fontFamily":"Instrument Sans","fontStyle":"Bold","letterSpacing":{"unit":"PERCENT","value":0},"lineHeight":{"unit":"PIXELS","value":12},"textCase":"ORIGINAL","textDecoration":"NONE"}
-]
+{
+  "version": 1,
+  "generatedAt": "2026-07-01T23:10:24.371991Z",
+  "styles": [
+    {
+      "key": "S:66e54cdbcae3d120a2b448d2b3561f8f9025edb6,",
+      "id": "S:66e54cdbcae3d120a2b448d2b3561f8f9025edb6,",
+      "name": "Display/8xl",
+      "description": "",
+      "fontSize": 44,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 50
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:f7bcbafa49c78bd9d42ec88b246d18a0e9d2b682,",
+      "id": "S:f7bcbafa49c78bd9d42ec88b246d18a0e9d2b682,",
+      "name": "Display/7xl",
+      "description": "",
+      "fontSize": 36,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 42
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:d9f359e6d1ea5a5c9b235b1424c8a09c08b5e9df,",
+      "id": "S:d9f359e6d1ea5a5c9b235b1424c8a09c08b5e9df,",
+      "name": "Display/6xl",
+      "description": "",
+      "fontSize": 32,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 38
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:d36f985304087093e1fc85f9467e1d8b73df7fee,",
+      "id": "S:d36f985304087093e1fc85f9467e1d8b73df7fee,",
+      "name": "Heading/5xl",
+      "description": "H1",
+      "fontSize": 28,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 34
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:61bd6a6560904bb91ed4602eac6ee3bd222998d2,",
+      "id": "S:61bd6a6560904bb91ed4602eac6ee3bd222998d2,",
+      "name": "Heading/4xl",
+      "description": "H2",
+      "fontSize": 26,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 32
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:ae63c0aa45fb077509fddf034a546e07abdcca62,",
+      "id": "S:ae63c0aa45fb077509fddf034a546e07abdcca62,",
+      "name": "Heading/3xl",
+      "description": "H3",
+      "fontSize": 24,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 30
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:2dfff8384e55853e600a4babaa61aec4c459a3fe,",
+      "id": "S:2dfff8384e55853e600a4babaa61aec4c459a3fe,",
+      "name": "Heading/2xl",
+      "description": "H4",
+      "fontSize": 22,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 28
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:5ddd0de97c42840a15351709a5415532ecba4977,",
+      "id": "S:5ddd0de97c42840a15351709a5415532ecba4977,",
+      "name": "Title/xl",
+      "description": "Section Heading",
+      "fontSize": 20,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 26
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:1533194298389a850da45d30a4afc83dbeac43c0,",
+      "id": "S:1533194298389a850da45d30a4afc83dbeac43c0,",
+      "name": "Title/lg",
+      "description": "Subheading",
+      "fontSize": 18,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Medium",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 24
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:d6863d8ffbf600c06957d1299632c50e8a2a11b2,",
+      "id": "S:d6863d8ffbf600c06957d1299632c50e8a2a11b2,",
+      "name": "Body/base",
+      "description": "Body copy",
+      "fontSize": 16,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Regular",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 22
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:b495dc6f89e7c36bf6248a8b293eb136b6bf2401,",
+      "id": "S:b495dc6f89e7c36bf6248a8b293eb136b6bf2401,",
+      "name": "Body/sm",
+      "description": "Compact copy",
+      "fontSize": 14,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Medium",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 20
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:06f77a767b66d6a504fb62599069981e7adbea99,",
+      "id": "S:06f77a767b66d6a504fb62599069981e7adbea99,",
+      "name": "Label/xs",
+      "description": "Label",
+      "fontSize": 12,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 1
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 18
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:0e002cdfd15ea4b45c710f2664526cfa1e5b39f7,",
+      "id": "S:0e002cdfd15ea4b45c710f2664526cfa1e5b39f7,",
+      "name": "Single Line/base",
+      "description": "",
+      "fontSize": 16,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 16
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:5a87e0d33f3ee9145cc8273b8e609608692f5c5e,",
+      "id": "S:5a87e0d33f3ee9145cc8273b8e609608692f5c5e,",
+      "name": "Single Line/sm",
+      "description": "",
+      "fontSize": 14,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 14
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    },
+    {
+      "key": "S:d1f7e726d748039f868db4ef67a7ad760f347cd2,",
+      "id": "S:d1f7e726d748039f868db4ef67a7ad760f347cd2,",
+      "name": "Single Line/xs",
+      "description": "",
+      "fontSize": 12,
+      "fontFamily": "Instrument Sans",
+      "fontStyle": "Bold",
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "lineHeight": {
+        "unit": "PIXELS",
+        "value": 12
+      },
+      "textCase": "ORIGINAL",
+      "textDecoration": "NONE"
+    }
+  ]
+}
