@@ -2907,5 +2907,35 @@
         }
       }
     ]
+  },
+  "Components (Rhythm AI)": {
+    "id": "VariableCollectionId:2232:1549",
+    "modes": [
+      "Mode 1"
+    ],
+    "variables": [
+      {
+        "key": "Purple-100",
+        "id": "VariableID:2232:1550",
+        "resolvedType": "COLOR",
+        "description": "",
+        "valuesByMode": {
+          "Mode 1": {
+            "value": "#5305BC"
+          }
+        }
+      },
+      {
+        "key": "Blue-100",
+        "id": "VariableID:2232:1551",
+        "resolvedType": "COLOR",
+        "description": "",
+        "valuesByMode": {
+          "Mode 1": {
+            "value": "#0086FF"
+          }
+        }
+      }
+    ]
   }
 }
