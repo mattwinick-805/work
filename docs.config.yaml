@@ -1,0 +1,6 @@
+dsName: "Rhythm-Web"
+figmaFileKey: "y1urmpM4BinDTzrvnQkhyB"
+kbPath: "bridge-ds"
+cron:
+  cadence: "daily"
+  time: "06:00"

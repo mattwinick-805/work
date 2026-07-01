@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@noemuch/bridge-ds": "^7.1.3"
+  }
+}
