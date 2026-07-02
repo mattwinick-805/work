@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "spec": "AIBundleBuilderEntry",
+    "generatedAt": "2026-07-01T23:42:00Z",
+    "rootNodeId": "2234:2532",
+    "fileKey": "622EQxCfEhHL6ZED7qYTKZ",
+    "sectionNodeId": "2234:1820",
+    "recipe": null,
+    "learningsApplied": []
+  },
+  "tree": {
+    "name": "AIBundleBuilderEntry",
+    "type": "FRAME",
+    "width": 1440,
+    "height": 945,
+    "children": [
+      { "name": "TopBar", "type": "FRAME", "width": 1440, "height": 96,
+        "children": [ { "name": "Logo", "type": "INSTANCE", "component": "assets/logo", "variant": "Color=Default, Type=Box (rescaled 48px tall)" } ] },
+      { "name": "Divider", "type": "RECTANGLE", "width": 1440, "height": 1 },
+      { "name": "Main", "type": "FRAME", "width": 1440, "height": 848,
+        "children": [
+          { "name": "Content", "type": "FRAME", "width": 720, "height": 752,
+            "children": [
+              { "name": "AIAvatar", "type": "INSTANCE", "component": "AI-Icon", "variant": "Color=Purple" },
+              { "name": "Heading", "type": "TEXT", "characters": "Let's build your bundle", "textStyle": "Heading/3xl" },
+              { "name": "Greeting", "type": "INSTANCE", "component": "AI Message", "variant": "Property 1=Default" },
+              { "name": "PromptChips", "type": "INSTANCE", "component": "Prompt Starters", "variant": "Property 1=Default" },
+              { "name": "PreferencesEntry", "type": "INSTANCE", "component": "Your-Preferences", "variant": "Property 1=Variant2" },
+              { "name": "ChatInput", "type": "INSTANCE", "component": "Chat Box", "variant": "Size=Standard, State=Enabled, Collapse / Extend=Collapsed, Text=Contained" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "postBuildFixes": [
+    "root primaryAxisSizingMode AUTO->FIXED, resized 1440x945 (compiler-generated root/FILL conflict, see notes)",
+    "Logo rescaled from 240x161 to 71.5x48 to fit a 96px TopBar (assets/logo has no compact nav variant)"
+  ]
+}

@@ -1,0 +1,141 @@
+meta:
+  name: AIBundleBuilderEntry
+  type: screen
+  canvas: web
+  width: 1440
+  height: 900
+  pattern: "ai-chat-entry"
+  recipe: ""
+  reference: ""
+
+intent: |
+  Entry point (first screen only) of the AI Bundle Builder flow. A user lands
+  here to start a conversation with the AI assistant that will put together a
+  gear bundle for them. Desktop width MVP — no subsequent flow steps, no
+  empty/loading/error states.
+
+layout:
+  type: FRAME
+  name: AIBundleBuilderEntry
+  layout: VERTICAL
+  fill: "$color/bg-primary"
+  fillH: true
+  fillV: true
+  children:
+    - type: FRAME
+      name: TopBar
+      layout: HORIZONTAL
+      fillH: true
+      height: 72
+      padding: "$spacing/space-24"
+      counterAxisAlign: CENTER
+      fill: "$color/bg-primary"
+      children:
+        - type: INSTANCE
+          name: Logo
+          component: assets/logo
+          variant: { Color: "Default", Type: "Box" }
+
+    - type: RECTANGLE
+      name: Divider
+      width: 1440
+      height: 1
+      fillH: true
+      fill: "$color/border-default"
+
+    - type: FRAME
+      name: Main
+      layout: VERTICAL
+      fillH: true
+      fillV: true
+      primaryAxisAlign: CENTER
+      counterAxisAlign: CENTER
+      padding: "$spacing/space-48"
+      children:
+        - type: FRAME
+          name: Content
+          layout: VERTICAL
+          width: 720
+          gap: "$spacing/space-24"
+          counterAxisAlign: CENTER
+          children:
+            - type: INSTANCE
+              name: AIAvatar
+              component: AI-Icon
+              variant: { Color: "Purple" }
+
+            - type: TEXT
+              name: Heading
+              characters: "Let's build your bundle"
+              textStyle: "$text/Heading/3xl"
+              fill: "$color/text-primary"
+
+            - type: INSTANCE
+              name: Greeting
+              component: AI Message
+              variant: { Property 1: "Default" }
+              fillH: true
+
+            - type: INSTANCE
+              name: PromptChips
+              component: Prompt Starters
+              variant: { Property 1: "Default" }
+              fillH: true
+
+            - type: INSTANCE
+              name: PreferencesEntry
+              component: Your-Preferences
+              variant: { Property 1: "Variant2" }
+
+            - type: INSTANCE
+              name: ChatInput
+              component: Chat Box
+              variant: { Size: "Standard", State: "Enabled", Collapse / Extend: "Collapsed", Text: "Contained" }
+              fillH: true
+
+ds_components:
+  - name: assets/logo
+    variant: "Default / Box"
+    location: "TopBar"
+  - name: AI-Icon
+    variant: "Purple"
+    location: "Content"
+  - name: AI Message
+    variant: "Default"
+    location: "Content > Greeting"
+  - name: Prompt Starters
+    variant: "Default"
+    location: "Content > PromptChips"
+  - name: Your-Preferences
+    variant: "Variant2"
+    location: "Content > PreferencesEntry"
+  - name: Chat Box
+    variant: "Standard / Enabled / Collapsed / Contained"
+    location: "Content > ChatInput"
+
+new_components: []
+
+tokens:
+  spacing:
+    - token: "$spacing/space-24"
+      usage: "TopBar padding, Content gap"
+    - token: "$spacing/space-48"
+      usage: "Main padding"
+  colors:
+    - token: "$color/bg-primary"
+      usage: "Page + TopBar background"
+    - token: "$color/border-default"
+      usage: "Header divider"
+    - token: "$color/text-primary"
+      usage: "Heading"
+  typography:
+    - token: "$text/Heading/3xl"
+      usage: "Page heading"
+
+learnings: []
+
+acceptance:
+  - "Desktop width (1440) only — no responsive states"
+  - "Only the entry point is built, no downstream conversation steps"
+  - "All DS components used via INSTANCE (no recreated frames)"
+  - "All tokens correctly applied (no hardcoded values)"
