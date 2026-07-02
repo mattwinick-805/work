@@ -2,355 +2,6 @@
   "version": 1,
   "generatedAt": "2026-07-01T23:10:24.371991Z",
   "collections": {
-    "Color Primitives": {
-      "id": "VariableCollectionId:10448:18408",
-      "modes": [
-        "Mode 1"
-      ],
-      "variables": [
-        {
-          "key": "Gray/600",
-          "id": "VariableID:10448:18461",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#161616"
-            }
-          }
-        },
-        {
-          "key": "Gray/500",
-          "id": "VariableID:10448:18462",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#676767"
-            }
-          }
-        },
-        {
-          "key": "Gray/400",
-          "id": "VariableID:10448:18463",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#BBBBBB"
-            }
-          }
-        },
-        {
-          "key": "Gray/100",
-          "id": "VariableID:10448:18464",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F5F5F5"
-            }
-          }
-        },
-        {
-          "key": "Gray/300",
-          "id": "VariableID:10448:18465",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#DDDDDD"
-            }
-          }
-        },
-        {
-          "key": "Gray/200",
-          "id": "VariableID:10448:18466",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#EEEEEE"
-            }
-          }
-        },
-        {
-          "key": "Gray/50",
-          "id": "VariableID:10448:18467",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F9F9F9"
-            }
-          }
-        },
-        {
-          "key": "Gray/white",
-          "id": "VariableID:10448:18468",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background or inverse text",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFFFFF"
-            }
-          }
-        },
-        {
-          "key": "Red/300",
-          "id": "VariableID:10448:18478",
-          "resolvedType": "COLOR",
-          "description": "Hover",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#C9000C"
-            }
-          }
-        },
-        {
-          "key": "Red/200*",
-          "id": "VariableID:10448:18479",
-          "resolvedType": "COLOR",
-          "description": "GC Red",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#ED1C24"
-            }
-          }
-        },
-        {
-          "key": "Red/100",
-          "id": "VariableID:10448:18480",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFC8CC"
-            }
-          }
-        },
-        {
-          "key": "Red/50",
-          "id": "VariableID:10448:18481",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFF6F7"
-            }
-          }
-        },
-        {
-          "key": "Red-Orange/300",
-          "id": "VariableID:10448:18491",
-          "resolvedType": "COLOR",
-          "description": "Hover",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#CC2200"
-            }
-          }
-        },
-        {
-          "key": "Red-Orange/200",
-          "id": "VariableID:10448:18492",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FF5533"
-            }
-          }
-        },
-        {
-          "key": "Red-Orange/100",
-          "id": "VariableID:10448:18493",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFAA99"
-            }
-          }
-        },
-        {
-          "key": "Red-Orange/50",
-          "id": "VariableID:10448:18494",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFF6F5"
-            }
-          }
-        },
-        {
-          "key": "Green/300",
-          "id": "VariableID:10448:18582",
-          "resolvedType": "COLOR",
-          "description": "Hover",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#186615"
-            }
-          }
-        },
-        {
-          "key": "Green/200",
-          "id": "VariableID:10448:18583",
-          "resolvedType": "COLOR",
-          "description": "Alert color",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#1F871C"
-            }
-          }
-        },
-        {
-          "key": "Orange/300",
-          "id": "VariableID:10448:18584",
-          "resolvedType": "COLOR",
-          "description": "Hover",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F17200"
-            }
-          }
-        },
-        {
-          "key": "Blue/300",
-          "id": "VariableID:10448:18585",
-          "resolvedType": "COLOR",
-          "description": "Secondary color",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#136EE7"
-            }
-          }
-        },
-        {
-          "key": "Orange/200",
-          "id": "VariableID:10448:18586",
-          "resolvedType": "COLOR",
-          "description": "Tertiary color",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F5B707"
-            }
-          }
-        },
-        {
-          "key": "Blue/100",
-          "id": "VariableID:10448:18587",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#B9DCFF"
-            }
-          }
-        },
-        {
-          "key": "Green/100",
-          "id": "VariableID:10448:18588",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#82CC7A"
-            }
-          }
-        },
-        {
-          "key": "Green/50",
-          "id": "VariableID:10448:18589",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F5FFF5"
-            }
-          }
-        },
-        {
-          "key": "Orange/100",
-          "id": "VariableID:10448:18590",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FCEF93"
-            }
-          }
-        },
-        {
-          "key": "Blue/50",
-          "id": "VariableID:10448:18591",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F5F9FF"
-            }
-          }
-        },
-        {
-          "key": "Blue/400",
-          "id": "VariableID:10448:18592",
-          "resolvedType": "COLOR",
-          "description": "Hover",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#1E3BB5"
-            }
-          }
-        },
-        {
-          "key": "Orange/50",
-          "id": "VariableID:10448:18593",
-          "resolvedType": "COLOR",
-          "description": "Low emphasis background",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFFDF5"
-            }
-          }
-        },
-        {
-          "key": "Gray/0",
-          "id": "VariableID:10511:23438",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFFFFF3D"
-            }
-          }
-        },
-        {
-          "key": "Blue/200",
-          "id": "VariableID:10521:25894",
-          "resolvedType": "COLOR",
-          "description": "Medium emphasis background or highlight",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#99CCFF"
-            }
-          }
-        },
-        {
-          "key": "Blue/0",
-          "id": "VariableID:10521:25899",
-          "resolvedType": "COLOR",
-          "description": "Secondary color",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#136EE780"
-            }
-          }
-        }
-      ]
-    },
     "Color": {
       "id": "VariableCollectionId:10448:18407",
       "modes": [
@@ -359,122 +10,11 @@
       ],
       "variables": [
         {
-          "key": "text-inverse",
-          "id": "VariableID:10479:23386",
+          "name": "text-primary",
+          "key": "d11fa6cdb566e8e2d915d466bac06b5e9699b7d8",
+          "id": "VariableID:10479:23403",
           "resolvedType": "COLOR",
-          "description": "Inverse text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#FFFFFF",
-              "aliasTo": "Gray/white"
-            },
-            "Dark": {
-              "value": "#161616",
-              "aliasTo": "Gray/600"
-            }
-          }
-        },
-        {
-          "key": "text-warning",
-          "id": "VariableID:10479:23387",
-          "resolvedType": "COLOR",
-          "description": "Warning text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#F17200",
-              "aliasTo": "Orange/300"
-            },
-            "Dark": {
-              "value": "#F17200",
-              "aliasTo": "Orange/300"
-            }
-          }
-        },
-        {
-          "key": "text-success",
-          "id": "VariableID:10479:23388",
-          "resolvedType": "COLOR",
-          "description": "Positive or success text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#1F871C",
-              "aliasTo": "Green/200"
-            },
-            "Dark": {
-              "value": "#1F871C",
-              "aliasTo": "Green/200"
-            }
-          }
-        },
-        {
-          "key": "text-link",
-          "id": "VariableID:10479:23389",
-          "resolvedType": "COLOR",
-          "description": "Default link text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#136EE7",
-              "aliasTo": "Blue/300"
-            },
-            "Dark": {
-              "value": "#136EE7",
-              "aliasTo": "Blue/300"
-            }
-          }
-        },
-        {
-          "key": "text-danger",
-          "id": "VariableID:10479:23390",
-          "resolvedType": "COLOR",
-          "description": "Danger or error text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#CC2200",
-              "aliasTo": "Red-Orange/300"
-            },
-            "Dark": {
-              "value": "#CC2200",
-              "aliasTo": "Red-Orange/300"
-            }
-          }
-        },
-        {
-          "key": "border-divider",
-          "id": "VariableID:10479:23391",
-          "resolvedType": "COLOR",
-          "description": "Divider border color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            },
-            "Dark": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            }
-          }
-        },
-        {
-          "key": "border-default",
-          "id": "VariableID:10479:23392",
-          "resolvedType": "COLOR",
-          "description": "Default border color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            },
-            "Dark": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            }
-          }
-        },
-        {
-          "key": "bg-inverse",
-          "id": "VariableID:10479:23393",
-          "resolvedType": "COLOR",
-          "description": "Inverse background color token.",
+          "description": "Primary text color token.",
           "valuesByMode": {
             "Light": {
               "value": "#161616",
@@ -487,55 +27,8 @@
           }
         },
         {
-          "key": "bg-subtle",
-          "id": "VariableID:10479:23394",
-          "resolvedType": "COLOR",
-          "description": "Subtle background color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#F9F9F9",
-              "aliasTo": "Gray/50"
-            },
-            "Dark": {
-              "value": "#676767",
-              "aliasTo": "Gray/500"
-            }
-          }
-        },
-        {
-          "key": "bg-primary",
-          "id": "VariableID:10479:23395",
-          "resolvedType": "COLOR",
-          "description": "Primary background color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#FFFFFF",
-              "aliasTo": "Gray/white"
-            },
-            "Dark": {
-              "value": "#161616",
-              "aliasTo": "Gray/600"
-            }
-          }
-        },
-        {
-          "key": "text-promotion",
-          "id": "VariableID:10479:23398",
-          "resolvedType": "COLOR",
-          "description": "Promotional text color token.",
-          "valuesByMode": {
-            "Light": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
-            },
-            "Dark": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
-            }
-          }
-        },
-        {
-          "key": "text-secondary",
+          "name": "text-secondary",
+          "key": "fe86f6853ec2a968acba7941b6a931eabc898c24",
           "id": "VariableID:10479:23399",
           "resolvedType": "COLOR",
           "description": "Secondary text color token.",
@@ -551,7 +44,8 @@
           }
         },
         {
-          "key": "text-disabled",
+          "name": "text-disabled",
+          "key": "ee499620e889ad7d62aa0fe8e0e93e16ed0a10a1",
           "id": "VariableID:10479:23400",
           "resolvedType": "COLOR",
           "description": "Disabled text color token.",
@@ -567,7 +61,42 @@
           }
         },
         {
-          "key": "text-link-hover",
+          "name": "text-inverse",
+          "key": "12fe57972aad408b5d1fa6069b08729476b49077",
+          "id": "VariableID:10479:23386",
+          "resolvedType": "COLOR",
+          "description": "Inverse text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#FFFFFF",
+              "aliasTo": "Gray/white"
+            },
+            "Dark": {
+              "value": "#161616",
+              "aliasTo": "Gray/600"
+            }
+          }
+        },
+        {
+          "name": "text-link",
+          "key": "462221cc00d30615d35d499c2a3ff681af45c46c",
+          "id": "VariableID:10479:23389",
+          "resolvedType": "COLOR",
+          "description": "Default link text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#136EE7",
+              "aliasTo": "Blue/300"
+            },
+            "Dark": {
+              "value": "#136EE7",
+              "aliasTo": "Blue/300"
+            }
+          }
+        },
+        {
+          "name": "text-link-hover",
+          "key": "5a6b7e13cacd4ec53a7249c2d958fb3a01567fc6",
           "id": "VariableID:10479:23401",
           "resolvedType": "COLOR",
           "description": "Hover link text color token.",
@@ -583,7 +112,110 @@
           }
         },
         {
-          "key": "bg-strong",
+          "name": "text-success",
+          "key": "e6de9feb805758fc856b6f2cb3d7daf637fb2557",
+          "id": "VariableID:10479:23388",
+          "resolvedType": "COLOR",
+          "description": "Positive or success text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#1F871C",
+              "aliasTo": "Green/200"
+            },
+            "Dark": {
+              "value": "#1F871C",
+              "aliasTo": "Green/200"
+            }
+          }
+        },
+        {
+          "name": "text-warning",
+          "key": "9a8f53a8341eadcf1e4a848bd8d30288927bc325",
+          "id": "VariableID:10479:23387",
+          "resolvedType": "COLOR",
+          "description": "Warning text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#F17200",
+              "aliasTo": "Orange/300"
+            },
+            "Dark": {
+              "value": "#F17200",
+              "aliasTo": "Orange/300"
+            }
+          }
+        },
+        {
+          "name": "text-danger",
+          "key": "d994a1321e4b4acfc89f7216b87f42d0f6255a4b",
+          "id": "VariableID:10479:23390",
+          "resolvedType": "COLOR",
+          "description": "Danger or error text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#CC2200",
+              "aliasTo": "Red-Orange/300"
+            },
+            "Dark": {
+              "value": "#CC2200",
+              "aliasTo": "Red-Orange/300"
+            }
+          }
+        },
+        {
+          "name": "text-promotion",
+          "key": "ecd871f0ab52f09ededbf40e295ce8b4ba5e79a8",
+          "id": "VariableID:10479:23398",
+          "resolvedType": "COLOR",
+          "description": "Promotional text color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            },
+            "Dark": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            }
+          }
+        },
+        {
+          "name": "bg-primary",
+          "key": "fc0fbbc3fea357a92d1c07a66bb6abe2df16a4bb",
+          "id": "VariableID:10479:23395",
+          "resolvedType": "COLOR",
+          "description": "Primary background color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#FFFFFF",
+              "aliasTo": "Gray/white"
+            },
+            "Dark": {
+              "value": "#161616",
+              "aliasTo": "Gray/600"
+            }
+          }
+        },
+        {
+          "name": "bg-subtle",
+          "key": "dd1d0035d35a681f46fffe8967c7379537cb3cd0",
+          "id": "VariableID:10479:23394",
+          "resolvedType": "COLOR",
+          "description": "Subtle background color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#F9F9F9",
+              "aliasTo": "Gray/50"
+            },
+            "Dark": {
+              "value": "#676767",
+              "aliasTo": "Gray/500"
+            }
+          }
+        },
+        {
+          "name": "bg-strong",
+          "key": "4471e3e864bb6198bf43110b5c6e69f3c113f431",
           "id": "VariableID:10479:23402",
           "resolvedType": "COLOR",
           "description": "Strong surface background color token.",
@@ -599,10 +231,11 @@
           }
         },
         {
-          "key": "text-primary",
-          "id": "VariableID:10479:23403",
+          "name": "bg-inverse",
+          "key": "35390294d1f2312725dc8573ad3fafd70b70073d",
+          "id": "VariableID:10479:23393",
           "resolvedType": "COLOR",
-          "description": "Primary text color token.",
+          "description": "Inverse background color token.",
           "valuesByMode": {
             "Light": {
               "value": "#161616",
@@ -611,6 +244,420 @@
             "Dark": {
               "value": "#FFFFFF",
               "aliasTo": "Gray/white"
+            }
+          }
+        },
+        {
+          "name": "border-default",
+          "key": "acdcfd152f9a8b7f2bce96af6017fa3565461250",
+          "id": "VariableID:10479:23392",
+          "resolvedType": "COLOR",
+          "description": "Default border color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            },
+            "Dark": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            }
+          }
+        },
+        {
+          "name": "border-divider",
+          "key": "f54e17c4fd83ea61f6da83e9eaa40b8f9e02a453",
+          "id": "VariableID:10479:23391",
+          "resolvedType": "COLOR",
+          "description": "Divider border color token.",
+          "valuesByMode": {
+            "Light": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            },
+            "Dark": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            }
+          }
+        }
+      ]
+    },
+    "Color Primitives": {
+      "id": "VariableCollectionId:10448:18408",
+      "modes": [
+        "Mode 1"
+      ],
+      "variables": [
+        {
+          "name": "Gray/0",
+          "key": "b7b4a3cafca910280a44608c53f36264e737d976",
+          "id": "VariableID:10511:23438",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFFFF3D"
+            }
+          }
+        },
+        {
+          "name": "Gray/white",
+          "key": "36a54c989bbc94136ab3dc0212aabf5589abc9a1",
+          "id": "VariableID:10448:18468",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background or inverse text",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFFFF"
+            }
+          }
+        },
+        {
+          "name": "Gray/50",
+          "key": "e5ec6702e1dd3e3570a223390b33585ba25c1efc",
+          "id": "VariableID:10448:18467",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F9F9F9"
+            }
+          }
+        },
+        {
+          "name": "Gray/100",
+          "key": "07631d0127ba6a6681c2420ba8a465ecae95a738",
+          "id": "VariableID:10448:18464",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F5F5F5"
+            }
+          }
+        },
+        {
+          "name": "Gray/200",
+          "key": "3e4211eb1ed0d12c53158aa438128ef8730cfd26",
+          "id": "VariableID:10448:18466",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#EEEEEE"
+            }
+          }
+        },
+        {
+          "name": "Gray/300",
+          "key": "6efd91d3d6f8872b5a9ae68c7bbb41790eb11847",
+          "id": "VariableID:10448:18465",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#DDDDDD"
+            }
+          }
+        },
+        {
+          "name": "Gray/400",
+          "key": "ff16d0e384430baf6b34fa6404e4d1a772bf6b93",
+          "id": "VariableID:10448:18463",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#BBBBBB"
+            }
+          }
+        },
+        {
+          "name": "Gray/500",
+          "key": "9b2a282cfc7551ac97d10cd4bf0fc5142a6323a6",
+          "id": "VariableID:10448:18462",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#676767"
+            }
+          }
+        },
+        {
+          "name": "Gray/600",
+          "key": "c6985dfe6a62c98db6a827d933f803621d61682c",
+          "id": "VariableID:10448:18461",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#161616"
+            }
+          }
+        },
+        {
+          "name": "Red/50",
+          "key": "3b94c570ac91871c547726c5c4b94158fb17b0c9",
+          "id": "VariableID:10448:18481",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFF6F7"
+            }
+          }
+        },
+        {
+          "name": "Red/100",
+          "key": "e952ed6786214e6f4f52a795f4af2c5eafd35605",
+          "id": "VariableID:10448:18480",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFC8CC"
+            }
+          }
+        },
+        {
+          "name": "Red/200*",
+          "key": "1c3896454ca45049ddd9fc2d06d18352a291fb4d",
+          "id": "VariableID:10448:18479",
+          "resolvedType": "COLOR",
+          "description": "GC Red",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#ED1C24"
+            }
+          }
+        },
+        {
+          "name": "Red/300",
+          "key": "d76919ada19013bde9bfc55fb15ee6e57bd04b06",
+          "id": "VariableID:10448:18478",
+          "resolvedType": "COLOR",
+          "description": "Hover",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#C9000C"
+            }
+          }
+        },
+        {
+          "name": "Red-Orange/50",
+          "key": "39cd3d5b4625f389b8b4030ed33e571e57edd248",
+          "id": "VariableID:10448:18494",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFF6F5"
+            }
+          }
+        },
+        {
+          "name": "Red-Orange/100",
+          "key": "55bca6d03413f07af008ce4b41701599a6bc3da2",
+          "id": "VariableID:10448:18493",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFAA99"
+            }
+          }
+        },
+        {
+          "name": "Red-Orange/200",
+          "key": "019e638393228f594123f049fa1ab56fb7efdb03",
+          "id": "VariableID:10448:18492",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FF5533"
+            }
+          }
+        },
+        {
+          "name": "Red-Orange/300",
+          "key": "41424b1146dee682440354dbe97ddb77320edaac",
+          "id": "VariableID:10448:18491",
+          "resolvedType": "COLOR",
+          "description": "Hover",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#CC2200"
+            }
+          }
+        },
+        {
+          "name": "Orange/50",
+          "key": "63fe92074013aa25844c829f9a262fa12a1fb969",
+          "id": "VariableID:10448:18593",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFDF5"
+            }
+          }
+        },
+        {
+          "name": "Orange/100",
+          "key": "8afac513d054e2963f2cf24a959cd24129e92c59",
+          "id": "VariableID:10448:18590",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FCEF93"
+            }
+          }
+        },
+        {
+          "name": "Orange/200",
+          "key": "cf31562af255e7590163587c1cb7a02d48f9eb10",
+          "id": "VariableID:10448:18586",
+          "resolvedType": "COLOR",
+          "description": "Tertiary color",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F5B707"
+            }
+          }
+        },
+        {
+          "name": "Orange/300",
+          "key": "3a53f17635a9a4fd55b627265674b9cfacc61b74",
+          "id": "VariableID:10448:18584",
+          "resolvedType": "COLOR",
+          "description": "Hover",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F17200"
+            }
+          }
+        },
+        {
+          "name": "Green/50",
+          "key": "961104bda93bc6bee41d37335f0a674c890138e2",
+          "id": "VariableID:10448:18589",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F5FFF5"
+            }
+          }
+        },
+        {
+          "name": "Green/100",
+          "key": "7977d63343ae4d0a0e33bd6d5a0c5b381dd82177",
+          "id": "VariableID:10448:18588",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#82CC7A"
+            }
+          }
+        },
+        {
+          "name": "Green/200",
+          "key": "295a6c46309442e2cd610fa4ec581b44777c3cfd",
+          "id": "VariableID:10448:18583",
+          "resolvedType": "COLOR",
+          "description": "Alert color",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#1F871C"
+            }
+          }
+        },
+        {
+          "name": "Green/300",
+          "key": "3a53b254cbd3808785c78d089a2a1d74d8887cb8",
+          "id": "VariableID:10448:18582",
+          "resolvedType": "COLOR",
+          "description": "Hover",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#186615"
+            }
+          }
+        },
+        {
+          "name": "Blue/0",
+          "key": "1e08b81eb7b8c2907558609bc9c8a597bad038dd",
+          "id": "VariableID:10521:25899",
+          "resolvedType": "COLOR",
+          "description": "Secondary color",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#136EE780"
+            }
+          }
+        },
+        {
+          "name": "Blue/50",
+          "key": "aee106413a64fc6a4090f7bbc28edbd39fb21e0d",
+          "id": "VariableID:10448:18591",
+          "resolvedType": "COLOR",
+          "description": "Low emphasis background",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F5F9FF"
+            }
+          }
+        },
+        {
+          "name": "Blue/100",
+          "key": "16dd08ebf8646212661262ba3c30f71d82eecec1",
+          "id": "VariableID:10448:18587",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#B9DCFF"
+            }
+          }
+        },
+        {
+          "name": "Blue/200",
+          "key": "2c7a403781e48a95e98f9e4bdcc545119b160c74",
+          "id": "VariableID:10521:25894",
+          "resolvedType": "COLOR",
+          "description": "Medium emphasis background or highlight",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#99CCFF"
+            }
+          }
+        },
+        {
+          "name": "Blue/300",
+          "key": "cf4df155a02354d69f1df9d4af13e4a74b1c4432",
+          "id": "VariableID:10448:18585",
+          "resolvedType": "COLOR",
+          "description": "Secondary color",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#136EE7"
+            }
+          }
+        },
+        {
+          "name": "Blue/400",
+          "key": "d0173a771bdb18b86ea52c4cc6be0acfc810c645",
+          "id": "VariableID:10448:18592",
+          "resolvedType": "COLOR",
+          "description": "Hover",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#1E3BB5"
             }
           }
         }
@@ -625,24 +672,8 @@
       ],
       "variables": [
         {
-          "key": "breakpoint-width",
-          "id": "VariableID:10448:18513",
-          "resolvedType": "FLOAT",
-          "description": "Reference breakpoint widths for mobile, tablet, and desktop responsive modes.",
-          "valuesByMode": {
-            "Mobile": {
-              "value": 375
-            },
-            "Tablet": {
-              "value": 768
-            },
-            "Desktop": {
-              "value": 1024
-            }
-          }
-        },
-        {
-          "key": "device",
+          "name": "device",
+          "key": "1b94b21bd3f28298bfa0897c6f814b17b7cafd3a",
           "id": "VariableID:10452:18595",
           "resolvedType": "STRING",
           "description": "Reference token for responsive mode naming across mobile, tablet, and desktop.",
@@ -659,107 +690,26 @@
           }
         },
         {
-          "key": "6xl",
-          "id": "VariableID:10458:18700",
+          "name": "breakpoint-width",
+          "key": "cbb43fb5ca78747838c98094164e2e68d0f1719b",
+          "id": "VariableID:10448:18513",
           "resolvedType": "FLOAT",
-          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "description": "Reference breakpoint widths for mobile, tablet, and desktop responsive modes.",
           "valuesByMode": {
             "Mobile": {
-              "value": 32,
-              "aliasTo": "size-32"
+              "value": 375
             },
             "Tablet": {
-              "value": 32,
-              "aliasTo": "size-32"
+              "value": 768
             },
             "Desktop": {
-              "value": 36,
-              "aliasTo": "size-36"
+              "value": 1024
             }
           }
         },
         {
-          "key": "5xl",
-          "id": "VariableID:10458:18701",
-          "resolvedType": "FLOAT",
-          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
-          "valuesByMode": {
-            "Mobile": {
-              "value": 28,
-              "aliasTo": "size-28"
-            },
-            "Tablet": {
-              "value": 28,
-              "aliasTo": "size-28"
-            },
-            "Desktop": {
-              "value": 32,
-              "aliasTo": "size-32"
-            }
-          }
-        },
-        {
-          "key": "4xl",
-          "id": "VariableID:10458:18702",
-          "resolvedType": "FLOAT",
-          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
-          "valuesByMode": {
-            "Mobile": {
-              "value": 26,
-              "aliasTo": "size-26"
-            },
-            "Tablet": {
-              "value": 26,
-              "aliasTo": "size-26"
-            },
-            "Desktop": {
-              "value": 28,
-              "aliasTo": "size-28"
-            }
-          }
-        },
-        {
-          "key": "7xl",
-          "id": "VariableID:10458:18705",
-          "resolvedType": "FLOAT",
-          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
-          "valuesByMode": {
-            "Mobile": {
-              "value": 36,
-              "aliasTo": "size-36"
-            },
-            "Tablet": {
-              "value": 36,
-              "aliasTo": "size-36"
-            },
-            "Desktop": {
-              "value": 44,
-              "aliasTo": "size-44"
-            }
-          }
-        },
-        {
-          "key": "3xl",
-          "id": "VariableID:10458:18706",
-          "resolvedType": "FLOAT",
-          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
-          "valuesByMode": {
-            "Mobile": {
-              "value": 24,
-              "aliasTo": "size-24"
-            },
-            "Tablet": {
-              "value": 24,
-              "aliasTo": "size-24"
-            },
-            "Desktop": {
-              "value": 26,
-              "aliasTo": "size-26"
-            }
-          }
-        },
-        {
-          "key": "2xl",
+          "name": "2xl",
+          "key": "8e17dc7413a6a73397ecb2e30e790f2c4917994f",
           "id": "VariableID:10458:18707",
           "resolvedType": "FLOAT",
           "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
@@ -779,7 +729,113 @@
           }
         },
         {
-          "key": "8xl",
+          "name": "3xl",
+          "key": "24258132b73bc5d134abcf3afba19ac499522df1",
+          "id": "VariableID:10458:18706",
+          "resolvedType": "FLOAT",
+          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "valuesByMode": {
+            "Mobile": {
+              "value": 24,
+              "aliasTo": "size-24"
+            },
+            "Tablet": {
+              "value": 24,
+              "aliasTo": "size-24"
+            },
+            "Desktop": {
+              "value": 26,
+              "aliasTo": "size-26"
+            }
+          }
+        },
+        {
+          "name": "4xl",
+          "key": "673a7816b3df0a3ac1c0820ea6cb8acf480391cb",
+          "id": "VariableID:10458:18702",
+          "resolvedType": "FLOAT",
+          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "valuesByMode": {
+            "Mobile": {
+              "value": 26,
+              "aliasTo": "size-26"
+            },
+            "Tablet": {
+              "value": 26,
+              "aliasTo": "size-26"
+            },
+            "Desktop": {
+              "value": 28,
+              "aliasTo": "size-28"
+            }
+          }
+        },
+        {
+          "name": "5xl",
+          "key": "0bba1aefb4896726a648c159fd9101d2f8e8d856",
+          "id": "VariableID:10458:18701",
+          "resolvedType": "FLOAT",
+          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "valuesByMode": {
+            "Mobile": {
+              "value": 28,
+              "aliasTo": "size-28"
+            },
+            "Tablet": {
+              "value": 28,
+              "aliasTo": "size-28"
+            },
+            "Desktop": {
+              "value": 32,
+              "aliasTo": "size-32"
+            }
+          }
+        },
+        {
+          "name": "6xl",
+          "key": "b9f9bef6c347edb7a322d35da91372dcc1791738",
+          "id": "VariableID:10458:18700",
+          "resolvedType": "FLOAT",
+          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "valuesByMode": {
+            "Mobile": {
+              "value": 32,
+              "aliasTo": "size-32"
+            },
+            "Tablet": {
+              "value": 32,
+              "aliasTo": "size-32"
+            },
+            "Desktop": {
+              "value": 36,
+              "aliasTo": "size-36"
+            }
+          }
+        },
+        {
+          "name": "7xl",
+          "key": "d556eec59b6a01ec65b64c8f34d0844e47ce9bcf",
+          "id": "VariableID:10458:18705",
+          "resolvedType": "FLOAT",
+          "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
+          "valuesByMode": {
+            "Mobile": {
+              "value": 36,
+              "aliasTo": "size-36"
+            },
+            "Tablet": {
+              "value": 36,
+              "aliasTo": "size-36"
+            },
+            "Desktop": {
+              "value": 44,
+              "aliasTo": "size-44"
+            }
+          }
+        },
+        {
+          "name": "8xl",
+          "key": "dadbcd758c1a843a908fd9630c20b6858aa74e55",
           "id": "VariableID:10458:18712",
           "resolvedType": "FLOAT",
           "description": "Responsive font-size token. Uses mobile/tablet value in base modes and desktop value in desktop mode.",
@@ -799,7 +855,8 @@
           }
         },
         {
-          "key": "margin",
+          "name": "margin",
+          "key": "77e2d1040ad95cf56a345dd9871daad6aaded12d",
           "id": "VariableID:10495:23428",
           "resolvedType": "FLOAT",
           "description": "Responsive layout margin token. Uses base spacing on mobile/tablet and expanded spacing on desktop.",
@@ -819,7 +876,8 @@
           }
         },
         {
-          "key": "leading-2xl",
+          "name": "leading-2xl",
+          "key": "22a4aec5e2d86fe3a92d14e0fea12bc5406241e3",
           "id": "VariableID:10521:26007",
           "resolvedType": "FLOAT",
           "description": "",
@@ -839,7 +897,8 @@
           }
         },
         {
-          "key": "leading-3xl",
+          "name": "leading-3xl",
+          "key": "7898b1ca50fe47981d212eca6a8fbf52d9dd3d30",
           "id": "VariableID:10521:26008",
           "resolvedType": "FLOAT",
           "description": "",
@@ -859,7 +918,8 @@
           }
         },
         {
-          "key": "leading-4xl",
+          "name": "leading-4xl",
+          "key": "63cd29a5cfc4b21e31a61d9b924c1b644fe8e687",
           "id": "VariableID:10521:26009",
           "resolvedType": "FLOAT",
           "description": "",
@@ -879,7 +939,8 @@
           }
         },
         {
-          "key": "leading-5xl",
+          "name": "leading-5xl",
+          "key": "8f07dc615d876209f07221720cc01545eec213e1",
           "id": "VariableID:10521:26010",
           "resolvedType": "FLOAT",
           "description": "",
@@ -899,7 +960,8 @@
           }
         },
         {
-          "key": "leading-6xl",
+          "name": "leading-6xl",
+          "key": "d7a0473d4d0a49894a9af42899b670ad9b3f6228",
           "id": "VariableID:10521:26011",
           "resolvedType": "FLOAT",
           "description": "",
@@ -919,7 +981,8 @@
           }
         },
         {
-          "key": "leading-7xl",
+          "name": "leading-7xl",
+          "key": "393af33b3506e707708043ac0138696724678fdb",
           "id": "VariableID:10521:26012",
           "resolvedType": "FLOAT",
           "description": "",
@@ -939,7 +1002,8 @@
           }
         },
         {
-          "key": "leading-8xl",
+          "name": "leading-8xl",
+          "key": "c22bf05d9bc08c0655cd744f70d8775da7298c57",
           "id": "VariableID:10521:26013",
           "resolvedType": "FLOAT",
           "description": "",
@@ -967,7 +1031,8 @@
       ],
       "variables": [
         {
-          "key": "space-2",
+          "name": "space-2",
+          "key": "dec3abd469de7d6394b6a9d8ba777a157858ba71",
           "id": "VariableID:10495:23404",
           "resolvedType": "FLOAT",
           "description": "",
@@ -978,7 +1043,8 @@
           }
         },
         {
-          "key": "space-4",
+          "name": "space-4",
+          "key": "0c3bdc4f7cbe47d862a33a76b112ed1b084433f4",
           "id": "VariableID:10495:23405",
           "resolvedType": "FLOAT",
           "description": "",
@@ -989,7 +1055,8 @@
           }
         },
         {
-          "key": "space-8",
+          "name": "space-8",
+          "key": "8841d6da909ba29d478a4f2ee4e2c4f6b7a514b7",
           "id": "VariableID:10495:23406",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1000,7 +1067,8 @@
           }
         },
         {
-          "key": "space-12",
+          "name": "space-12",
+          "key": "c31bad63c7aa4379eea314f5580372deefe1e504",
           "id": "VariableID:10495:23407",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1011,7 +1079,8 @@
           }
         },
         {
-          "key": "space-16",
+          "name": "space-16",
+          "key": "3d8fc0b2f7b4310fa913c0818841bbbf340b0532",
           "id": "VariableID:10495:23408",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1022,7 +1091,8 @@
           }
         },
         {
-          "key": "space-20",
+          "name": "space-20",
+          "key": "df0d46d28ff2a22bada567145072c1f1aa4194a3",
           "id": "VariableID:10495:23409",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1033,7 +1103,8 @@
           }
         },
         {
-          "key": "space-24",
+          "name": "space-24",
+          "key": "dd71a18800798c531bc6b97d681a1405793251e8",
           "id": "VariableID:10495:23410",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1044,172 +1115,8 @@
           }
         },
         {
-          "key": "space-32",
-          "id": "VariableID:10495:23411",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 32
-            }
-          }
-        },
-        {
-          "key": "space-40",
-          "id": "VariableID:10495:23412",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 40
-            }
-          }
-        },
-        {
-          "key": "space-48",
-          "id": "VariableID:10495:23413",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 48
-            }
-          }
-        },
-        {
-          "key": "space-56",
-          "id": "VariableID:10495:23414",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 56
-            }
-          }
-        },
-        {
-          "key": "space-64",
-          "id": "VariableID:10495:23415",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 64
-            }
-          }
-        },
-        {
-          "key": "space-72",
-          "id": "VariableID:10495:23416",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 72
-            }
-          }
-        },
-        {
-          "key": "space-80",
-          "id": "VariableID:10495:23417",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 80
-            }
-          }
-        },
-        {
-          "key": "space-96",
-          "id": "VariableID:10495:23418",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 96
-            }
-          }
-        },
-        {
-          "key": "space-112",
-          "id": "VariableID:10495:23419",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 112
-            }
-          }
-        },
-        {
-          "key": "radius-small",
-          "id": "VariableID:10495:23420",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 2
-            }
-          }
-        },
-        {
-          "key": "radius-base",
-          "id": "VariableID:10495:23421",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 4
-            }
-          }
-        },
-        {
-          "key": "radius-large",
-          "id": "VariableID:10495:23422",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 6
-            }
-          }
-        },
-        {
-          "key": "radius-full",
-          "id": "VariableID:10495:23423",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 48
-            }
-          }
-        },
-        {
-          "key": "stroke-base",
-          "id": "VariableID:10495:23424",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 2
-            }
-          }
-        },
-        {
-          "key": "stroke-small",
-          "id": "VariableID:10495:23425",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 1
-            }
-          }
-        },
-        {
-          "key": "space-28",
+          "name": "space-28",
+          "key": "47bda75435dd2cbdb054be0c8c91639a0c50c3f7",
           "id": "VariableID:10511:24342",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1220,7 +1127,20 @@
           }
         },
         {
-          "key": "space-36",
+          "name": "space-32",
+          "key": "61fd67f5855abd9597d63a79ddc788ca92f747f2",
+          "id": "VariableID:10495:23411",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 32
+            }
+          }
+        },
+        {
+          "name": "space-36",
+          "key": "af63f238e4c1295a9c32c2e663c5f346b65e06d6",
           "id": "VariableID:10511:24344",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1231,280 +1151,45 @@
           }
         },
         {
-          "key": "stroke-medium",
-          "id": "VariableID:10562:1187",
+          "name": "space-40",
+          "key": "66bfff515e1c755e58738cc4dcc7515088a47d30",
+          "id": "VariableID:10495:23412",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 1.5
-            }
-          }
-        }
-      ]
-    },
-    "Typography Primitives": {
-      "id": "VariableCollectionId:10448:18412",
-      "modes": [
-        "Mode 1"
-      ],
-      "variables": [
-        {
-          "key": "family-sans",
-          "id": "VariableID:10453:18596",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "Instrument Sans"
+              "value": 40
             }
           }
         },
         {
-          "key": "weight-regular",
-          "id": "VariableID:10453:18598",
+          "name": "space-48",
+          "key": "57e0be7b418516f097a03a90f94f7921b9ae1014",
+          "id": "VariableID:10495:23413",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 400
+              "value": 48
             }
           }
         },
         {
-          "key": "weight-medium",
-          "id": "VariableID:10453:18599",
+          "name": "space-56",
+          "key": "14cce97b5fe472f47440a74779afbba85d193dbc",
+          "id": "VariableID:10495:23414",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 500
+              "value": 56
             }
           }
         },
         {
-          "key": "weight-bold",
-          "id": "VariableID:10453:18600",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 700
-            }
-          }
-        },
-        {
-          "key": "size-28",
-          "id": "VariableID:10458:18657",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 28
-            }
-          }
-        },
-        {
-          "key": "size-22",
-          "id": "VariableID:10458:18658",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 22
-            }
-          }
-        },
-        {
-          "key": "size-18",
-          "id": "VariableID:10458:18659",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 18
-            }
-          }
-        },
-        {
-          "key": "size-16",
-          "id": "VariableID:10458:18660",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 16
-            }
-          }
-        },
-        {
-          "key": "size-32",
-          "id": "VariableID:10458:18661",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 32
-            }
-          }
-        },
-        {
-          "key": "size-24",
-          "id": "VariableID:10458:18662",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 24
-            }
-          }
-        },
-        {
-          "key": "size-58",
-          "id": "VariableID:10458:18663",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 58
-            }
-          }
-        },
-        {
-          "key": "size-12",
-          "id": "VariableID:10458:18664",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 12
-            }
-          }
-        },
-        {
-          "key": "size-20",
-          "id": "VariableID:10458:18665",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 20
-            }
-          }
-        },
-        {
-          "key": "size-36",
-          "id": "VariableID:10458:18666",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 36
-            }
-          }
-        },
-        {
-          "key": "size-44",
-          "id": "VariableID:10458:18667",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 44
-            }
-          }
-        },
-        {
-          "key": "size-26",
-          "id": "VariableID:10458:18669",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 26
-            }
-          }
-        },
-        {
-          "key": "size-14",
-          "id": "VariableID:10458:18670",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 14
-            }
-          }
-        },
-        {
-          "key": "leading-26",
-          "id": "VariableID:10461:23253",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 26
-            }
-          }
-        },
-        {
-          "key": "leading-22",
-          "id": "VariableID:10461:23254",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 22
-            }
-          }
-        },
-        {
-          "key": "leading-18",
-          "id": "VariableID:10461:23255",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 18
-            }
-          }
-        },
-        {
-          "key": "leading-28",
-          "id": "VariableID:10461:23256",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 28
-            }
-          }
-        },
-        {
-          "key": "leading-24",
-          "id": "VariableID:10461:23257",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 24
-            }
-          }
-        },
-        {
-          "key": "leading-16",
-          "id": "VariableID:10461:23258",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 16
-            }
-          }
-        },
-        {
-          "key": "leading-64",
-          "id": "VariableID:10461:23259",
+          "name": "space-64",
+          "key": "31f667436bd133b1972dad807f77735848ffb84d",
+          "id": "VariableID:10495:23415",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
@@ -1514,134 +1199,134 @@
           }
         },
         {
-          "key": "leading-50",
-          "id": "VariableID:10461:23261",
+          "name": "space-72",
+          "key": "7fb4d06b912713f1871ca57547c80ec60fd675d4",
+          "id": "VariableID:10495:23416",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 50
+              "value": 72
             }
           }
         },
         {
-          "key": "leading-30",
-          "id": "VariableID:10461:23263",
+          "name": "space-80",
+          "key": "646c56297c834ac84af09bf5e23d6331f6d326cb",
+          "id": "VariableID:10495:23417",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 30
+              "value": 80
             }
           }
         },
         {
-          "key": "leading-20",
-          "id": "VariableID:10461:23264",
+          "name": "space-96",
+          "key": "f7bc0fd2c77ca442b40eee0d11219d3954c65a0d",
+          "id": "VariableID:10495:23418",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 20
+              "value": 96
             }
           }
         },
         {
-          "key": "leading-14",
-          "id": "VariableID:10461:23265",
+          "name": "space-112",
+          "key": "179e6778ff95928f6969c720c36fb96d3298316b",
+          "id": "VariableID:10495:23419",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 14
+              "value": 112
             }
           }
         },
         {
-          "key": "leading-42",
-          "id": "VariableID:10461:23267",
+          "name": "radius-small",
+          "key": "bd96cdcc1b208c5a25d635fee72044157e2b415e",
+          "id": "VariableID:10495:23420",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 42
+              "value": 2
             }
           }
         },
         {
-          "key": "leading-34",
-          "id": "VariableID:10461:23268",
+          "name": "radius-base",
+          "key": "24f2a78e5dc9e75935aaac976880d9a0189e199d",
+          "id": "VariableID:10495:23421",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 34
+              "value": 4
             }
           }
         },
         {
-          "key": "leading-32",
-          "id": "VariableID:10461:23270",
+          "name": "radius-large",
+          "key": "ba66b08d6f1483ba4e18b20613eeefec875adb45",
+          "id": "VariableID:10495:23422",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 32
+              "value": 6
             }
           }
         },
         {
-          "key": "leading-38",
-          "id": "VariableID:10461:23271",
+          "name": "radius-full",
+          "key": "ddfc96098e5137bf004977f5506fc711b47767b5",
+          "id": "VariableID:10495:23423",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 38
+              "value": 48
             }
           }
         },
         {
-          "key": "leading-12",
-          "id": "VariableID:10461:23272",
+          "name": "stroke-small",
+          "key": "846011de03e2e6d22ddd467eb0dc8ce0b4c36d25",
+          "id": "VariableID:10495:23425",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 12
+              "value": 1
             }
           }
         },
         {
-          "key": "line-height-base",
-          "id": "VariableID:10511:25854",
-          "resolvedType": "STRING",
+          "name": "stroke-medium",
+          "key": "8bebd73708b43f67d55ea08a43320f81e86f9d85",
+          "id": "VariableID:10562:1187",
+          "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "120%"
+              "value": 1.5
             }
           }
         },
         {
-          "key": "line-height-large",
-          "id": "VariableID:10511:25855",
-          "resolvedType": "STRING",
+          "name": "stroke-base",
+          "key": "3401d5ffe70481d466110fdbb60f8a20ba2ae44a",
+          "id": "VariableID:10495:23424",
+          "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "140%"
-            }
-          }
-        },
-        {
-          "key": "line-height-small",
-          "id": "VariableID:10511:25856",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "100%"
+              "value": 2
             }
           }
         }
@@ -1654,7 +1339,8 @@
       ],
       "variables": [
         {
-          "key": "Display/family",
+          "name": "Display/family",
+          "key": "417f60f0f84556a0559da30fbbb7cc65e52c237f",
           "id": "VariableID:10461:23273",
           "resolvedType": "STRING",
           "description": "",
@@ -1666,247 +1352,8 @@
           }
         },
         {
-          "key": "Display/size-small",
-          "id": "VariableID:10461:23274",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 32,
-              "aliasTo": "6xl"
-            }
-          }
-        },
-        {
-          "key": "Display/size-base",
-          "id": "VariableID:10461:23275",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 36,
-              "aliasTo": "7xl"
-            }
-          }
-        },
-        {
-          "key": "Display/size-large",
-          "id": "VariableID:10461:23276",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 44,
-              "aliasTo": "8xl"
-            }
-          }
-        },
-        {
-          "key": "Heading/family",
-          "id": "VariableID:10461:23277",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "Instrument Sans",
-              "aliasTo": "family-sans"
-            }
-          }
-        },
-        {
-          "key": "Heading/size-small",
-          "id": "VariableID:10461:23278",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 24,
-              "aliasTo": "3xl"
-            }
-          }
-        },
-        {
-          "key": "Heading/size-base",
-          "id": "VariableID:10461:23279",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 26,
-              "aliasTo": "4xl"
-            }
-          }
-        },
-        {
-          "key": "Heading/size-large",
-          "id": "VariableID:10461:23280",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 28,
-              "aliasTo": "5xl"
-            }
-          }
-        },
-        {
-          "key": "2xl",
-          "id": "VariableID:10472:23312",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 22,
-              "aliasTo": "size-22"
-            }
-          }
-        },
-        {
-          "key": "lg",
-          "id": "VariableID:10472:23313",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 18,
-              "aliasTo": "size-18"
-            }
-          }
-        },
-        {
-          "key": "base",
-          "id": "VariableID:10472:23314",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 16,
-              "aliasTo": "size-16"
-            }
-          }
-        },
-        {
-          "key": "sm",
-          "id": "VariableID:10472:23315",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 14,
-              "aliasTo": "size-14"
-            }
-          }
-        },
-        {
-          "key": "7xl",
-          "id": "VariableID:10472:23316",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 36,
-              "aliasTo": "size-36"
-            }
-          }
-        },
-        {
-          "key": "9xl",
-          "id": "VariableID:10472:23317",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 58,
-              "aliasTo": "size-58"
-            }
-          }
-        },
-        {
-          "key": "6xl",
-          "id": "VariableID:10472:23318",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 32,
-              "aliasTo": "size-32"
-            }
-          }
-        },
-        {
-          "key": "xl",
-          "id": "VariableID:10472:23319",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 20,
-              "aliasTo": "size-20"
-            }
-          }
-        },
-        {
-          "key": "xs",
-          "id": "VariableID:10472:23320",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 12,
-              "aliasTo": "size-12"
-            }
-          }
-        },
-        {
-          "key": "8xl",
-          "id": "VariableID:10472:23322",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 44,
-              "aliasTo": "size-44"
-            }
-          }
-        },
-        {
-          "key": "4xl",
-          "id": "VariableID:10472:23323",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 26,
-              "aliasTo": "size-26"
-            }
-          }
-        },
-        {
-          "key": "5xl",
-          "id": "VariableID:10472:23324",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 28,
-              "aliasTo": "size-28"
-            }
-          }
-        },
-        {
-          "key": "3xl",
-          "id": "VariableID:10472:23325",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 24,
-              "aliasTo": "size-24"
-            }
-          }
-        },
-        {
-          "key": "Display/weight",
+          "name": "Display/weight",
+          "key": "5319dbf032235093d4fdbd5123a6d96bf4fa38e6",
           "id": "VariableID:10472:23326",
           "resolvedType": "FLOAT",
           "description": "",
@@ -1918,223 +1365,47 @@
           }
         },
         {
-          "key": "Heading/weight",
-          "id": "VariableID:10472:23327",
+          "name": "Display/size-small",
+          "key": "6b39f641f5ceb441f210409bdd10786d84768fd6",
+          "id": "VariableID:10461:23274",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 700,
-              "aliasTo": "weight-bold"
+              "value": 32,
+              "aliasTo": "6xl"
             }
           }
         },
         {
-          "key": "Title/family",
-          "id": "VariableID:10472:23328",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "Instrument Sans",
-              "aliasTo": "family-sans"
-            }
-          }
-        },
-        {
-          "key": "Title/size-small",
-          "id": "VariableID:10472:23329",
+          "name": "Display/size-base",
+          "key": "544c5e7db4944c32c803f214dbe1e41403cfa1d2",
+          "id": "VariableID:10461:23275",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 18,
-              "aliasTo": "lg"
+              "value": 36,
+              "aliasTo": "7xl"
             }
           }
         },
         {
-          "key": "Title/size-base",
-          "id": "VariableID:10472:23330",
+          "name": "Display/size-large",
+          "key": "1167b8478380b3a260b3bac73783c74a718d9a01",
+          "id": "VariableID:10461:23276",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 20,
-              "aliasTo": "xl"
+              "value": 44,
+              "aliasTo": "8xl"
             }
           }
         },
         {
-          "key": "Title/size-large",
-          "id": "VariableID:10472:23331",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 22,
-              "aliasTo": "2xl"
-            }
-          }
-        },
-        {
-          "key": "Title/weight-regular",
-          "id": "VariableID:10472:23332",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 400,
-              "aliasTo": "weight-regular"
-            }
-          }
-        },
-        {
-          "key": "Title/weight-medium",
-          "id": "VariableID:10472:23333",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 500,
-              "aliasTo": "weight-medium"
-            }
-          }
-        },
-        {
-          "key": "Title/weight-bold",
-          "id": "VariableID:10472:23334",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 700,
-              "aliasTo": "weight-bold"
-            }
-          }
-        },
-        {
-          "key": "Body/family",
-          "id": "VariableID:10472:23335",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "Instrument Sans",
-              "aliasTo": "family-sans"
-            }
-          }
-        },
-        {
-          "key": "Body/size-small",
-          "id": "VariableID:10472:23336",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 14,
-              "aliasTo": "sm"
-            }
-          }
-        },
-        {
-          "key": "Body/size-base",
-          "id": "VariableID:10472:23337",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 16,
-              "aliasTo": "base"
-            }
-          }
-        },
-        {
-          "key": "Body/weight-regular",
-          "id": "VariableID:10472:23339",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 400,
-              "aliasTo": "weight-regular"
-            }
-          }
-        },
-        {
-          "key": "Body/weight-medium",
-          "id": "VariableID:10472:23340",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 500,
-              "aliasTo": "weight-medium"
-            }
-          }
-        },
-        {
-          "key": "Body/weight-bold",
-          "id": "VariableID:10472:23341",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 700,
-              "aliasTo": "weight-bold"
-            }
-          }
-        },
-        {
-          "key": "Label/family",
-          "id": "VariableID:10479:23342",
-          "resolvedType": "STRING",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "Instrument Sans",
-              "aliasTo": "family-sans"
-            }
-          }
-        },
-        {
-          "key": "Label/size",
-          "id": "VariableID:10479:23343",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 12,
-              "aliasTo": "xs"
-            }
-          }
-        },
-        {
-          "key": "Label/weight-medium",
-          "id": "VariableID:10479:23347",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 500,
-              "aliasTo": "weight-medium"
-            }
-          }
-        },
-        {
-          "key": "Label/weight-bold",
-          "id": "VariableID:10479:23348",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 700,
-              "aliasTo": "weight-bold"
-            }
-          }
-        },
-        {
-          "key": "Display/leading-small",
+          "name": "Display/leading-small",
+          "key": "2fd76259bdf974e042dc9ebcb574fc90781b3e18",
           "id": "VariableID:10521:26014",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2146,7 +1417,8 @@
           }
         },
         {
-          "key": "Display/leading-base",
+          "name": "Display/leading-base",
+          "key": "360e4013b057716abd733612006fa32eb8285fb4",
           "id": "VariableID:10521:26015",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2158,7 +1430,8 @@
           }
         },
         {
-          "key": "Display/leading-large",
+          "name": "Display/leading-large",
+          "key": "da584d456591d9c75167727e4730678ad9ff4ba9",
           "id": "VariableID:10521:26016",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2170,127 +1443,242 @@
           }
         },
         {
-          "key": "Heading/leading-large",
-          "id": "VariableID:10528:26024",
-          "resolvedType": "FLOAT",
+          "name": "Heading/family",
+          "key": "88f79f297b068166665ade498daf13ec8f4a2a4c",
+          "id": "VariableID:10461:23277",
+          "resolvedType": "STRING",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 34,
-              "aliasTo": "leading-5xl"
+              "value": "Instrument Sans",
+              "aliasTo": "family-sans"
             }
           }
         },
         {
-          "key": "Heading/leading-base",
-          "id": "VariableID:10528:26025",
+          "name": "Heading/weight",
+          "key": "5ea7b169127070d49d9020fb04158a1f789bf1d0",
+          "id": "VariableID:10472:23327",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 32,
-              "aliasTo": "leading-4xl"
+              "value": 700,
+              "aliasTo": "weight-bold"
             }
           }
         },
         {
-          "key": "Heading/leading-small",
-          "id": "VariableID:10528:26026",
+          "name": "Heading/size-small",
+          "key": "826ff50d9e679bd5afecdbffa115d0f1ec91de28",
+          "id": "VariableID:10461:23278",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 30,
-              "aliasTo": "leading-3xl"
+              "value": 24,
+              "aliasTo": "3xl"
             }
           }
         },
         {
-          "key": "Title/leading-large",
-          "id": "VariableID:10528:26034",
+          "name": "Heading/size-base",
+          "key": "e100d89d22e4d374e77fa0e1779efe3084b053ae",
+          "id": "VariableID:10461:23279",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26,
+              "aliasTo": "4xl"
+            }
+          }
+        },
+        {
+          "name": "Heading/size-large",
+          "key": "7851638ac63eadf5e402cb9f1179a092f48c1b83",
+          "id": "VariableID:10461:23280",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
               "value": 28,
-              "aliasTo": "leading-2xl"
+              "aliasTo": "5xl"
             }
           }
         },
         {
-          "key": "Title/leading-base",
-          "id": "VariableID:10528:26035",
+          "name": "xs",
+          "key": "22825e714e459f253d049c5ee3517350103d0693",
+          "id": "VariableID:10472:23320",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 26,
-              "aliasTo": "leading-xl"
+              "value": 12,
+              "aliasTo": "size-12"
             }
           }
         },
         {
-          "key": "Title/leading-small",
-          "id": "VariableID:10528:26036",
+          "name": "sm",
+          "key": "aa3991ab8f4b1b8ed30024f6c14feca7dfdf957d",
+          "id": "VariableID:10472:23315",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 24,
-              "aliasTo": "leading-lg"
+              "value": 14,
+              "aliasTo": "size-14"
             }
           }
         },
         {
-          "key": "leading-xl",
-          "id": "VariableID:10528:26059",
+          "name": "base",
+          "key": "6f73669ff6b0b11bd1e761dd1b553470e889dcb9",
+          "id": "VariableID:10472:23314",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 26,
-              "aliasTo": "leading-26"
+              "value": 16,
+              "aliasTo": "size-16"
             }
           }
         },
         {
-          "key": "leading-lg",
-          "id": "VariableID:10528:26060",
+          "name": "lg",
+          "key": "f4deb2b0e2992c3ec900e8edd7065dc7702a0e43",
+          "id": "VariableID:10472:23313",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": 24,
-              "aliasTo": "leading-24"
+              "value": 18,
+              "aliasTo": "size-18"
             }
           }
         },
         {
-          "key": "leading-base",
-          "id": "VariableID:10528:26061",
-          "resolvedType": "FLOAT",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": 22,
-              "aliasTo": "leading-22"
-            }
-          }
-        },
-        {
-          "key": "leading-sm",
-          "id": "VariableID:10528:26062",
+          "name": "xl",
+          "key": "a3ec326d9005b55416b5e4f621997d1925449f2e",
+          "id": "VariableID:10472:23319",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
               "value": 20,
-              "aliasTo": "leading-20"
+              "aliasTo": "size-20"
             }
           }
         },
         {
-          "key": "leading-xs",
+          "name": "2xl",
+          "key": "524d0e9a81494358434223737ac7a7525c2267cc",
+          "id": "VariableID:10472:23312",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 22,
+              "aliasTo": "size-22"
+            }
+          }
+        },
+        {
+          "name": "3xl",
+          "key": "63fa650c0b890575a1ebb2cb66f9c23a8c7b617e",
+          "id": "VariableID:10472:23325",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 24,
+              "aliasTo": "size-24"
+            }
+          }
+        },
+        {
+          "name": "4xl",
+          "key": "cd9ec0a171197df84be3db5d62df123bf15e5a78",
+          "id": "VariableID:10472:23323",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26,
+              "aliasTo": "size-26"
+            }
+          }
+        },
+        {
+          "name": "5xl",
+          "key": "d526c344628b837795181f7146c80a9f5f197f6e",
+          "id": "VariableID:10472:23324",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 28,
+              "aliasTo": "size-28"
+            }
+          }
+        },
+        {
+          "name": "6xl",
+          "key": "2edcc4346df80d095ae0ce0a1b19b6da8875d78c",
+          "id": "VariableID:10472:23318",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 32,
+              "aliasTo": "size-32"
+            }
+          }
+        },
+        {
+          "name": "7xl",
+          "key": "8ca06dfae3c8d5074c74b3cb2ce68d84a4b95c9c",
+          "id": "VariableID:10472:23316",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 36,
+              "aliasTo": "size-36"
+            }
+          }
+        },
+        {
+          "name": "8xl",
+          "key": "00398b09588674a3410f9aa139a9fd17def442be",
+          "id": "VariableID:10472:23322",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 44,
+              "aliasTo": "size-44"
+            }
+          }
+        },
+        {
+          "name": "9xl",
+          "key": "f3a908b5ffb9ac3e50c78440564d326a935382ea",
+          "id": "VariableID:10472:23317",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 58,
+              "aliasTo": "size-58"
+            }
+          }
+        },
+        {
+          "name": "leading-xs",
+          "key": "b2c3b4796cf3d7b011ee3818106621516d6fc852",
           "id": "VariableID:10528:26063",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2302,19 +1690,359 @@
           }
         },
         {
-          "key": "Body/leading-base",
-          "id": "VariableID:10528:26072",
+          "name": "leading-sm",
+          "key": "04f8455d00d0d1c226de2a8388ebc0bb5c86bc0c",
+          "id": "VariableID:10528:26062",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 20,
+              "aliasTo": "leading-20"
+            }
+          }
+        },
+        {
+          "name": "Title/family",
+          "key": "add401305eceac19245b72102eab5f302aea863c",
+          "id": "VariableID:10472:23328",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "Instrument Sans",
+              "aliasTo": "family-sans"
+            }
+          }
+        },
+        {
+          "name": "leading-base",
+          "key": "a047aabec39d50209383123af9365888432af1a1",
+          "id": "VariableID:10528:26061",
           "resolvedType": "FLOAT",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
               "value": 22,
-              "aliasTo": "leading-base"
+              "aliasTo": "leading-22"
             }
           }
         },
         {
-          "key": "Body/leading-small",
+          "name": "Title/weight-regular",
+          "key": "9fe141d7da2a64d2727f7364e8d2e427b9c106c6",
+          "id": "VariableID:10472:23332",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 400,
+              "aliasTo": "weight-regular"
+            }
+          }
+        },
+        {
+          "name": "Title/weight-medium",
+          "key": "ef8f5fb0e4e2892c405daa55fa19e401b6933297",
+          "id": "VariableID:10472:23333",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 500,
+              "aliasTo": "weight-medium"
+            }
+          }
+        },
+        {
+          "name": "Title/weight-bold",
+          "key": "b8f672f0807100c922f72a35e96f17155ddf1586",
+          "id": "VariableID:10472:23334",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 700,
+              "aliasTo": "weight-bold"
+            }
+          }
+        },
+        {
+          "name": "Title/size-small",
+          "key": "7c46014fd916c6cc08b1b417ea4bd789a6b511eb",
+          "id": "VariableID:10472:23329",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 18,
+              "aliasTo": "lg"
+            }
+          }
+        },
+        {
+          "name": "leading-lg",
+          "key": "2cbc5e05ae8d4bb1021e2b8427214fe96969b5d3",
+          "id": "VariableID:10528:26060",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 24,
+              "aliasTo": "leading-24"
+            }
+          }
+        },
+        {
+          "name": "Title/size-base",
+          "key": "a6276cf3aed0a7e501561316a84980bf13dbc160",
+          "id": "VariableID:10472:23330",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 20,
+              "aliasTo": "xl"
+            }
+          }
+        },
+        {
+          "name": "leading-xl",
+          "key": "8d4e5eff476c8a2200e067688042d29574417205",
+          "id": "VariableID:10528:26059",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26,
+              "aliasTo": "leading-26"
+            }
+          }
+        },
+        {
+          "name": "Title/size-large",
+          "key": "9473f60c29eb9e1abd7746434e4e0fbbfb8a7516",
+          "id": "VariableID:10472:23331",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 22,
+              "aliasTo": "2xl"
+            }
+          }
+        },
+        {
+          "name": "Body/family",
+          "key": "aa400ac3c54b66fcdab6a8d8b41894fbdb116973",
+          "id": "VariableID:10472:23335",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "Instrument Sans",
+              "aliasTo": "family-sans"
+            }
+          }
+        },
+        {
+          "name": "Body/weight-regular",
+          "key": "59d158334a33191ec53fa8104da67ce655e174b0",
+          "id": "VariableID:10472:23339",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 400,
+              "aliasTo": "weight-regular"
+            }
+          }
+        },
+        {
+          "name": "Body/weight-medium",
+          "key": "d62b79d4580a482d8a20cdb51a4a2c567d00a5fd",
+          "id": "VariableID:10472:23340",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 500,
+              "aliasTo": "weight-medium"
+            }
+          }
+        },
+        {
+          "name": "Body/weight-bold",
+          "key": "363d777f35bef0a96887791f11c3ba8655032460",
+          "id": "VariableID:10472:23341",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 700,
+              "aliasTo": "weight-bold"
+            }
+          }
+        },
+        {
+          "name": "Body/size-small",
+          "key": "0cd24a715f0df00b1750713888611e88c6abc45a",
+          "id": "VariableID:10472:23336",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 14,
+              "aliasTo": "sm"
+            }
+          }
+        },
+        {
+          "name": "Body/size-base",
+          "key": "b6dabbce6a0d111fa3887cfb180b7394f0344cc6",
+          "id": "VariableID:10472:23337",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 16,
+              "aliasTo": "base"
+            }
+          }
+        },
+        {
+          "name": "Label/family",
+          "key": "434b04773eae2a4838325a41a9fb22fd53c8060d",
+          "id": "VariableID:10479:23342",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "Instrument Sans",
+              "aliasTo": "family-sans"
+            }
+          }
+        },
+        {
+          "name": "Label/weight-medium",
+          "key": "81187948dfab3b16b029f4767ee8fa1d9b449509",
+          "id": "VariableID:10479:23347",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 500,
+              "aliasTo": "weight-medium"
+            }
+          }
+        },
+        {
+          "name": "Label/weight-bold",
+          "key": "140ca3bdeb4d019f2546728c9aaf019a06c56bf4",
+          "id": "VariableID:10479:23348",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 700,
+              "aliasTo": "weight-bold"
+            }
+          }
+        },
+        {
+          "name": "Label/size",
+          "key": "32df1533ec3565753b63373cf01feb56a4d99b73",
+          "id": "VariableID:10479:23343",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 12,
+              "aliasTo": "xs"
+            }
+          }
+        },
+        {
+          "name": "Heading/leading-small",
+          "key": "0fd8001fde57185425ea72eb9a5083c386f0fd91",
+          "id": "VariableID:10528:26026",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 30,
+              "aliasTo": "leading-3xl"
+            }
+          }
+        },
+        {
+          "name": "Heading/leading-base",
+          "key": "ca0a26a572677bcd80b92a44e2620e9438aa9154",
+          "id": "VariableID:10528:26025",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 32,
+              "aliasTo": "leading-4xl"
+            }
+          }
+        },
+        {
+          "name": "Heading/leading-large",
+          "key": "a8282ff85e17e789357b5ccd4c69b4b77c2357be",
+          "id": "VariableID:10528:26024",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 34,
+              "aliasTo": "leading-5xl"
+            }
+          }
+        },
+        {
+          "name": "Title/leading-small",
+          "key": "f1226f197868cf3c0c3ff798b2fe0919e95e8386",
+          "id": "VariableID:10528:26036",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 24,
+              "aliasTo": "leading-lg"
+            }
+          }
+        },
+        {
+          "name": "Title/leading-base",
+          "key": "ff7654289094b941da6a4e127b12e044d2c5d0ab",
+          "id": "VariableID:10528:26035",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26,
+              "aliasTo": "leading-xl"
+            }
+          }
+        },
+        {
+          "name": "Title/leading-large",
+          "key": "1a16146aa77d4bf05117a1b69765e5ecb2a33ff7",
+          "id": "VariableID:10528:26034",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 28,
+              "aliasTo": "leading-2xl"
+            }
+          }
+        },
+        {
+          "name": "Body/leading-small",
+          "key": "b9ce43ce59c05382b7ccf2d7aea16d1cb8a7bce6",
           "id": "VariableID:10528:26073",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2326,7 +2054,8 @@
           }
         },
         {
-          "key": "Label/leading",
+          "name": "Label/leading",
+          "key": "665156f136db6a23441a479a31465bd42eb8392c",
           "id": "VariableID:10528:26078",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2338,7 +2067,8 @@
           }
         },
         {
-          "key": "Label/single-line",
+          "name": "Label/single-line",
+          "key": "f7cbbbe4a346da546aca0fb495f1f6fa04c4895b",
           "id": "VariableID:10528:26079",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2350,7 +2080,21 @@
           }
         },
         {
-          "key": "Body/single-line-small",
+          "name": "Body/leading-base",
+          "key": "cbb5235f0724118253ac94f4603a660e9d3f7471",
+          "id": "VariableID:10528:26072",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 22,
+              "aliasTo": "leading-base"
+            }
+          }
+        },
+        {
+          "name": "Body/single-line-small",
+          "key": "d9a06aecced4f9717f99d3328970f59ea42d346a",
           "id": "VariableID:10528:26084",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2362,7 +2106,8 @@
           }
         },
         {
-          "key": "Body/single-line-base",
+          "name": "Body/single-line-base",
+          "key": "c24e0b5c5f71e7bebb13de7ead927043c28220c7",
           "id": "VariableID:10528:26085",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2375,6 +2120,446 @@
         }
       ]
     },
+    "Typography Primitives": {
+      "id": "VariableCollectionId:10448:18412",
+      "modes": [
+        "Mode 1"
+      ],
+      "variables": [
+        {
+          "name": "family-sans",
+          "key": "384a5c9d62a3b2a6869ca585d545fa056880051f",
+          "id": "VariableID:10453:18596",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "Instrument Sans"
+            }
+          }
+        },
+        {
+          "name": "weight-regular",
+          "key": "922e814099ced41f118beab842392c72ba120b9b",
+          "id": "VariableID:10453:18598",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 400
+            }
+          }
+        },
+        {
+          "name": "weight-medium",
+          "key": "d8998e716e5887e18ea89b92652473e0fd08a017",
+          "id": "VariableID:10453:18599",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 500
+            }
+          }
+        },
+        {
+          "name": "weight-bold",
+          "key": "1b403910624f72461fb63863c208ed12f271fc85",
+          "id": "VariableID:10453:18600",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 700
+            }
+          }
+        },
+        {
+          "name": "size-12",
+          "key": "cb955f17e1d18dc8edb04830371b8dccffc5d2c9",
+          "id": "VariableID:10458:18664",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 12
+            }
+          }
+        },
+        {
+          "name": "size-14",
+          "key": "830e041460ad60fa107d8ea2858de0f701da653f",
+          "id": "VariableID:10458:18670",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 14
+            }
+          }
+        },
+        {
+          "name": "size-16",
+          "key": "ca3e8612e97d4e6006bc7f9807093fa91b9ef526",
+          "id": "VariableID:10458:18660",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 16
+            }
+          }
+        },
+        {
+          "name": "size-18",
+          "key": "10c881ea58ad9d4850088dcc8e635686cbf4e7c1",
+          "id": "VariableID:10458:18659",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 18
+            }
+          }
+        },
+        {
+          "name": "size-20",
+          "key": "1cab8d70e5b6ed2cf41a2061334dd6a1bc45c094",
+          "id": "VariableID:10458:18665",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 20
+            }
+          }
+        },
+        {
+          "name": "size-22",
+          "key": "ca618163983581ac5845aae09c7368ada7acd070",
+          "id": "VariableID:10458:18658",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 22
+            }
+          }
+        },
+        {
+          "name": "size-24",
+          "key": "2b3d6d292c1b3ab1da14b1d989f26de05641b3ed",
+          "id": "VariableID:10458:18662",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 24
+            }
+          }
+        },
+        {
+          "name": "size-26",
+          "key": "4f75b27a32c2a5851c5906077aa4e41c3eb8e8a1",
+          "id": "VariableID:10458:18669",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26
+            }
+          }
+        },
+        {
+          "name": "size-28",
+          "key": "5c266216414a872ea4257ee35fd04d86847bd697",
+          "id": "VariableID:10458:18657",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 28
+            }
+          }
+        },
+        {
+          "name": "size-32",
+          "key": "b902bad27ec3e6961b2747131082c59a000a2657",
+          "id": "VariableID:10458:18661",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 32
+            }
+          }
+        },
+        {
+          "name": "size-36",
+          "key": "7f2ea3e225c014e91fd20de57cd7a6530d18c25c",
+          "id": "VariableID:10458:18666",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 36
+            }
+          }
+        },
+        {
+          "name": "size-44",
+          "key": "70ce5b77011a3b0b68c48851d3e5bf722c213f48",
+          "id": "VariableID:10458:18667",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 44
+            }
+          }
+        },
+        {
+          "name": "size-58",
+          "key": "b5cccef7a8b43d66d9fff772700940d4789a5f3f",
+          "id": "VariableID:10458:18663",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 58
+            }
+          }
+        },
+        {
+          "name": "leading-12",
+          "key": "9f9d4bf1082e72be50898442b2559d15b4ba4344",
+          "id": "VariableID:10461:23272",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 12
+            }
+          }
+        },
+        {
+          "name": "leading-14",
+          "key": "190a7794dd90eb047ca50eb924b39424a486dba5",
+          "id": "VariableID:10461:23265",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 14
+            }
+          }
+        },
+        {
+          "name": "leading-16",
+          "key": "e031a6d83d36e2e8a117da01b4483dfde535513b",
+          "id": "VariableID:10461:23258",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 16
+            }
+          }
+        },
+        {
+          "name": "leading-18",
+          "key": "c18aa94d82004a0f11af4122a2f7930c810afdb4",
+          "id": "VariableID:10461:23255",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 18
+            }
+          }
+        },
+        {
+          "name": "leading-20",
+          "key": "96862ef41895e7027afb350fc47e087b86c459b6",
+          "id": "VariableID:10461:23264",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 20
+            }
+          }
+        },
+        {
+          "name": "leading-22",
+          "key": "e70d69023ccc8ddaf700b52db5622df44377260f",
+          "id": "VariableID:10461:23254",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 22
+            }
+          }
+        },
+        {
+          "name": "leading-24",
+          "key": "74c68d53555a98d2bc0275eea51dc2f4d8409841",
+          "id": "VariableID:10461:23257",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 24
+            }
+          }
+        },
+        {
+          "name": "leading-26",
+          "key": "5eff56f2e91c1f95b7f9deb0c012d1a636748d26",
+          "id": "VariableID:10461:23253",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 26
+            }
+          }
+        },
+        {
+          "name": "leading-28",
+          "key": "d72ff186c7f2bd211b3f5d0184c1bfa886d4a5a1",
+          "id": "VariableID:10461:23256",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 28
+            }
+          }
+        },
+        {
+          "name": "leading-30",
+          "key": "d3f9016cb991e137c98e25daee796b7207360363",
+          "id": "VariableID:10461:23263",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 30
+            }
+          }
+        },
+        {
+          "name": "leading-32",
+          "key": "9ed0c6540329f6b0cd3624a8bd83916f0ede5346",
+          "id": "VariableID:10461:23270",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 32
+            }
+          }
+        },
+        {
+          "name": "leading-34",
+          "key": "a332452ef0c9c9b110373fa5ab30319dfd8cc22b",
+          "id": "VariableID:10461:23268",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 34
+            }
+          }
+        },
+        {
+          "name": "leading-38",
+          "key": "d1a3aece054e0e7930d9f7f1dcfa9e440f239676",
+          "id": "VariableID:10461:23271",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 38
+            }
+          }
+        },
+        {
+          "name": "leading-42",
+          "key": "671e96adb4e66c69ad8478545395fee9c4e43ab1",
+          "id": "VariableID:10461:23267",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 42
+            }
+          }
+        },
+        {
+          "name": "leading-50",
+          "key": "1306debcd8cf03a867de117179d30e96fba83e9d",
+          "id": "VariableID:10461:23261",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 50
+            }
+          }
+        },
+        {
+          "name": "leading-64",
+          "key": "88c07ce3d216bb7434635b6d7932000d4c141920",
+          "id": "VariableID:10461:23259",
+          "resolvedType": "FLOAT",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": 64
+            }
+          }
+        },
+        {
+          "name": "line-height-small",
+          "key": "ef7a59a1c19aca3ff99ec4e946c7bf01dddb2f7a",
+          "id": "VariableID:10511:25856",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "100%"
+            }
+          }
+        },
+        {
+          "name": "line-height-base",
+          "key": "713456b4dabd4f7d9cae15eb49881693bc5826db",
+          "id": "VariableID:10511:25854",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "120%"
+            }
+          }
+        },
+        {
+          "name": "line-height-large",
+          "key": "d9b0361c7eb11d93794364703f53030115bbd6d0",
+          "id": "VariableID:10511:25855",
+          "resolvedType": "STRING",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "140%"
+            }
+          }
+        }
+      ]
+    },
     "Components": {
       "id": "VariableCollectionId:10511:24298",
       "modes": [
@@ -2382,139 +2567,8 @@
       ],
       "variables": [
         {
-          "key": "Button/border-secondary",
-          "id": "VariableID:10511:24321",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
-            }
-          }
-        },
-        {
-          "key": "Button/bg-disabled",
-          "id": "VariableID:10511:24322",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#EEEEEE",
-              "aliasTo": "Gray/200"
-            }
-          }
-        },
-        {
-          "key": "Global/bg-action-hover",
-          "id": "VariableID:10511:24323",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            }
-          }
-        },
-        {
-          "key": "Button/border-secondary-hover",
-          "id": "VariableID:10511:24324",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#C9000C",
-              "aliasTo": "Red/300"
-            }
-          }
-        },
-        {
-          "key": "Button/bg-secondary-hover",
-          "id": "VariableID:10511:24326",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F9F9F9",
-              "aliasTo": "Gray/50"
-            }
-          }
-        },
-        {
-          "key": "Button/bg-primary",
-          "id": "VariableID:10511:24327",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
-            }
-          }
-        },
-        {
-          "key": "Button/bg-secondary",
-          "id": "VariableID:10511:24328",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFFFFF",
-              "aliasTo": "Gray/white"
-            }
-          }
-        },
-        {
-          "key": "Button/bg-primary-hover",
-          "id": "VariableID:10511:24329",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#C9000C",
-              "aliasTo": "Red/300"
-            }
-          }
-        },
-        {
-          "key": "Global/bg-action",
-          "id": "VariableID:10511:24330",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#EEEEEE",
-              "aliasTo": "Gray/200"
-            }
-          }
-        },
-        {
-          "key": "Button/text-hover",
-          "id": "VariableID:10511:24336",
-          "resolvedType": "COLOR",
-          "description": "Button text color token for hover state.",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#C9000C",
-              "aliasTo": "Red/300"
-            }
-          }
-        },
-        {
-          "key": "Button/text-enabled",
-          "id": "VariableID:10511:24337",
-          "resolvedType": "COLOR",
-          "description": "Button text color token for default enabled state.",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
-            }
-          }
-        },
-        {
-          "key": "Global/height-small",
+          "name": "Global/height-small",
+          "key": "8e9ffb72a39c1f44181c882e42d9960d3e8579ba",
           "id": "VariableID:10511:24341",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2526,7 +2580,125 @@
           }
         },
         {
-          "key": "Global/height-medium",
+          "name": "Button/text-enabled",
+          "key": "22369f6b4295fa1bc47fdaae3f17fd7ec2c8801a",
+          "id": "VariableID:10511:24337",
+          "resolvedType": "COLOR",
+          "description": "Button text color token for default enabled state.",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            }
+          }
+        },
+        {
+          "name": "Button/text-hover",
+          "key": "559ec0341bd8c0601233f8586198bb3060611a69",
+          "id": "VariableID:10511:24336",
+          "resolvedType": "COLOR",
+          "description": "Button text color token for hover state.",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#C9000C",
+              "aliasTo": "Red/300"
+            }
+          }
+        },
+        {
+          "name": "Button/bg-primary",
+          "key": "5b35c92acfbed6ef4c2b41bb76a8155a19ef545c",
+          "id": "VariableID:10511:24327",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            }
+          }
+        },
+        {
+          "name": "Button/bg-primary-hover",
+          "key": "2b2d4ddd254dba2586812604816579b33be13442",
+          "id": "VariableID:10511:24329",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#C9000C",
+              "aliasTo": "Red/300"
+            }
+          }
+        },
+        {
+          "name": "Button/bg-secondary",
+          "key": "0ded628efbe84dfbfc02bb22df35455e59c23b9f",
+          "id": "VariableID:10511:24328",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFFFF",
+              "aliasTo": "Gray/white"
+            }
+          }
+        },
+        {
+          "name": "Button/bg-secondary-hover",
+          "key": "f38a96eb99de57f0192b02fc11bf6af53001529a",
+          "id": "VariableID:10511:24326",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F9F9F9",
+              "aliasTo": "Gray/50"
+            }
+          }
+        },
+        {
+          "name": "Button/bg-disabled",
+          "key": "e90511da34f9085c872f794c3ef00dc144bf7fb4",
+          "id": "VariableID:10511:24322",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#EEEEEE",
+              "aliasTo": "Gray/200"
+            }
+          }
+        },
+        {
+          "name": "Button/border-secondary",
+          "key": "06cf4d809fe32340fca7538eabad315178ea6a4e",
+          "id": "VariableID:10511:24321",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            }
+          }
+        },
+        {
+          "name": "Button/border-secondary-hover",
+          "key": "e599d6530f3c7238a06413883b79ce5dfa911353",
+          "id": "VariableID:10511:24324",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#C9000C",
+              "aliasTo": "Red/300"
+            }
+          }
+        },
+        {
+          "name": "Global/height-medium",
+          "key": "81ee8fb1f8d08e898dcb8a6b1ca34298a91f28a0",
           "id": "VariableID:10511:24343",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2538,7 +2710,8 @@
           }
         },
         {
-          "key": "Global/height-large",
+          "name": "Global/height-large",
+          "key": "a9c239256878686db9c3b7d6d464624867927396",
           "id": "VariableID:10511:24345",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2550,211 +2723,8 @@
           }
         },
         {
-          "key": "AI Chip/bg-primary",
-          "id": "VariableID:10521:25895",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#B9DCFF",
-              "aliasTo": "Blue/100"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/bg-primary-hover",
-          "id": "VariableID:10521:25896",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#99CCFF",
-              "aliasTo": "Blue/200"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/text-primary",
-          "id": "VariableID:10521:25897",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#136EE7",
-              "aliasTo": "Blue/300"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/border-primary-hover",
-          "id": "VariableID:10521:25898",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#1E3BB5",
-              "aliasTo": "Blue/400"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/text-primary-disabled",
-          "id": "VariableID:10521:25900",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#136EE780",
-              "aliasTo": "Blue/0"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/bg-secondary",
-          "id": "VariableID:10521:25975",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#EEEEEE",
-              "aliasTo": "Gray/200"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/bg-secondary-hover",
-          "id": "VariableID:10521:25976",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#DDDDDD",
-              "aliasTo": "Gray/300"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/text-secondary",
-          "id": "VariableID:10521:25977",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#676767",
-              "aliasTo": "text-secondary"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/text-secondary-disabled",
-          "id": "VariableID:10521:25978",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#BBBBBB",
-              "aliasTo": "text-disabled"
-            }
-          }
-        },
-        {
-          "key": "AI Chip/border-secondary-hover",
-          "id": "VariableID:10521:25979",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#161616",
-              "aliasTo": "Gray/600"
-            }
-          }
-        },
-        {
-          "key": "Icons/black",
-          "id": "VariableID:10962:4030",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#161616",
-              "aliasTo": "Gray/600"
-            }
-          }
-        },
-        {
-          "key": "Icons/gray",
-          "id": "VariableID:10962:4031",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#676767",
-              "aliasTo": "Gray/500"
-            }
-          }
-        },
-        {
-          "key": "Icons/disabled",
-          "id": "VariableID:10962:10367",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#BBBBBB",
-              "aliasTo": "Gray/400"
-            }
-          }
-        },
-        {
-          "key": "Global/border-active",
-          "id": "VariableID:10963:10782",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#161616",
-              "aliasTo": "Gray/600"
-            }
-          }
-        },
-        {
-          "key": "Global/border-hover",
-          "id": "VariableID:10963:10783",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#676767",
-              "aliasTo": "Gray/500"
-            }
-          }
-        },
-        {
-          "key": "Global/border-disabled",
-          "id": "VariableID:10963:10784",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#EEEEEE",
-              "aliasTo": "Gray/200"
-            }
-          }
-        },
-        {
-          "key": "Global/border-error",
-          "id": "VariableID:10963:10785",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FF5533",
-              "aliasTo": "Red-Orange/200"
-            }
-          }
-        },
-        {
-          "key": "Global/radius",
+          "name": "Global/radius",
+          "key": "7deb22e9822672e04a1180daf7946483f13c31cb",
           "id": "VariableID:10963:10786",
           "resolvedType": "FLOAT",
           "description": "",
@@ -2766,32 +2736,22 @@
           }
         },
         {
-          "key": "Inputs/border-enabled",
-          "id": "VariableID:10963:10787",
+          "name": "Global/bg-action",
+          "key": "cbd242ee3cca4e480bb9755d83f02651e61eea0e",
+          "id": "VariableID:10511:24330",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#BBBBBB",
-              "aliasTo": "Gray/400"
+              "value": "#EEEEEE",
+              "aliasTo": "Gray/200"
             }
           }
         },
         {
-          "key": "Inputs/bg-input",
-          "id": "VariableID:10963:10788",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#FFFFFF",
-              "aliasTo": "bg-primary"
-            }
-          }
-        },
-        {
-          "key": "Selects/border-enabled",
-          "id": "VariableID:10963:10789",
+          "name": "Global/bg-action-hover",
+          "key": "f9c31330bf76ec41fd59b03dca257c6efea54db5",
+          "id": "VariableID:10511:24323",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
@@ -2802,19 +2762,8 @@
           }
         },
         {
-          "key": "Selects/bg-trigger",
-          "id": "VariableID:10963:10790",
-          "resolvedType": "COLOR",
-          "description": "",
-          "valuesByMode": {
-            "Mode 1": {
-              "value": "#F5F5F5",
-              "aliasTo": "bg-strong"
-            }
-          }
-        },
-        {
-          "key": "Global/bg-error",
+          "name": "Global/bg-error",
+          "key": "1bcfc8995b7e0b48fa933290ecadfd7f1c74b321",
           "id": "VariableID:10963:10795",
           "resolvedType": "COLOR",
           "description": "",
@@ -2826,7 +2775,8 @@
           }
         },
         {
-          "key": "Global/bg-disabled",
+          "name": "Global/bg-disabled",
+          "key": "8f19721ba8d794868476f0e39b02a05d3e0e5e28",
           "id": "VariableID:10963:10796",
           "resolvedType": "COLOR",
           "description": "",
@@ -2838,55 +2788,151 @@
           }
         },
         {
-          "key": "Icons/red",
-          "id": "VariableID:10964:11089",
+          "name": "Global/border-active",
+          "key": "f55c4342667bfeb347a22d5ecd5ec72788efcb31",
+          "id": "VariableID:10963:10782",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#ED1C24",
-              "aliasTo": "Red/200*"
+              "value": "#161616",
+              "aliasTo": "Gray/600"
             }
           }
         },
         {
-          "key": "Icons/red-hover",
-          "id": "VariableID:10964:11090",
+          "name": "Global/border-hover",
+          "key": "baaea7fa16ad28226aa07113d3bf74e6062d0a11",
+          "id": "VariableID:10963:10783",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#C9000C",
-              "aliasTo": "Red/300"
+              "value": "#676767",
+              "aliasTo": "Gray/500"
             }
           }
         },
         {
-          "key": "Icons/blue",
-          "id": "VariableID:10964:11091",
+          "name": "Global/border-disabled",
+          "key": "0c38d6c257cdab0b7ed47a6d6ba20c6953face2e",
+          "id": "VariableID:10963:10784",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#136EE7",
-              "aliasTo": "Blue/300"
+              "value": "#EEEEEE",
+              "aliasTo": "Gray/200"
             }
           }
         },
         {
-          "key": "Icons/blue-hover",
-          "id": "VariableID:10964:11092",
+          "name": "Global/border-error",
+          "key": "a1c5e56ee67e7c1eb2bc85ee6b040c8d274f73c0",
+          "id": "VariableID:10963:10785",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#1E3BB5",
-              "aliasTo": "Blue/400"
+              "value": "#FF5533",
+              "aliasTo": "Red-Orange/200"
             }
           }
         },
         {
-          "key": "Icons/white",
+          "name": "Global/border-safe",
+          "key": "1921d93c006717fc915218f92f2a8c60b2b1eac6",
+          "id": "VariableID:11035:6085",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFFFF3D",
+              "aliasTo": "Gray/0"
+            }
+          }
+        },
+        {
+          "name": "Selects/bg-trigger",
+          "key": "64d417ba8c7400352da26cfbb01845225e892aa1",
+          "id": "VariableID:10963:10790",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#F5F5F5",
+              "aliasTo": "bg-strong"
+            }
+          }
+        },
+        {
+          "name": "Selects/border-enabled",
+          "key": "079b3ca5ab48cd5328382ea0243dbf216b07fe4f",
+          "id": "VariableID:10963:10789",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            }
+          }
+        },
+        {
+          "name": "Inputs/border-enabled",
+          "key": "b2d641ae6b9013c8ce485cb81d5910a51612992c",
+          "id": "VariableID:10963:10787",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#BBBBBB",
+              "aliasTo": "Gray/400"
+            }
+          }
+        },
+        {
+          "name": "Inputs/bg-input",
+          "key": "608f57a8de08e78b1e4647952401df3b38fe3b14",
+          "id": "VariableID:10963:10788",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#FFFFFF",
+              "aliasTo": "bg-primary"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/bg-primary",
+          "key": "3fe9f9a946d172a59f69113cb12abcb6ff70f05f",
+          "id": "VariableID:10521:25895",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#B9DCFF",
+              "aliasTo": "Blue/100"
+            }
+          }
+        },
+        {
+          "name": "Icons/black",
+          "key": "99b531c116ab8da945fe6a0b705ad89a5d9e0522",
+          "id": "VariableID:10962:4030",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#161616",
+              "aliasTo": "Gray/600"
+            }
+          }
+        },
+        {
+          "name": "Icons/white",
+          "key": "7f2a3b94e274dd2ea82dacdd51c2793f49691059",
           "id": "VariableID:10964:11093",
           "resolvedType": "COLOR",
           "description": "",
@@ -2898,14 +2944,197 @@
           }
         },
         {
-          "key": "Global/border-safe",
-          "id": "VariableID:11035:6085",
+          "name": "Icons/gray",
+          "key": "22d9814dd61f946009282e31ac1d7961a4103d7b",
+          "id": "VariableID:10962:4031",
           "resolvedType": "COLOR",
           "description": "",
           "valuesByMode": {
             "Mode 1": {
-              "value": "#FFFFFF3D",
-              "aliasTo": "Gray/0"
+              "value": "#676767",
+              "aliasTo": "Gray/500"
+            }
+          }
+        },
+        {
+          "name": "Icons/red",
+          "key": "d583dcbd81deb0ad4012ef1d70c5a1913a9f3ba9",
+          "id": "VariableID:10964:11089",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#ED1C24",
+              "aliasTo": "Red/200*"
+            }
+          }
+        },
+        {
+          "name": "Icons/red-hover",
+          "key": "ec76698aa0cb6e36c87fa26170d6bbfef7b5aa1e",
+          "id": "VariableID:10964:11090",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#C9000C",
+              "aliasTo": "Red/300"
+            }
+          }
+        },
+        {
+          "name": "Icons/blue",
+          "key": "9755d8c4206e2b37c5cd2756e9dcd8cb8d3eea7e",
+          "id": "VariableID:10964:11091",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#136EE7",
+              "aliasTo": "Blue/300"
+            }
+          }
+        },
+        {
+          "name": "Icons/blue-hover",
+          "key": "b7d2b38077b9474fbe62a4b194e26e5319e0070c",
+          "id": "VariableID:10964:11092",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#1E3BB5",
+              "aliasTo": "Blue/400"
+            }
+          }
+        },
+        {
+          "name": "Icons/disabled",
+          "key": "72e417c4cb9a50027839b7a428b8ddf22d564788",
+          "id": "VariableID:10962:10367",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#BBBBBB",
+              "aliasTo": "Gray/400"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/bg-secondary",
+          "key": "1df3462af9879d63c71142798660eaf28dc8b70b",
+          "id": "VariableID:10521:25975",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#EEEEEE",
+              "aliasTo": "Gray/200"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/bg-primary-hover",
+          "key": "7b20e7b1d347548b8c1af79261df11d03e9c8ee6",
+          "id": "VariableID:10521:25896",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#99CCFF",
+              "aliasTo": "Blue/200"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/bg-secondary-hover",
+          "key": "b474fdf59a5da2892648fe36cd8fcbdd6ba31c19",
+          "id": "VariableID:10521:25976",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#DDDDDD",
+              "aliasTo": "Gray/300"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/text-primary",
+          "key": "298d0c5073d9a29eaf97f1abba9ce5ca54b418ff",
+          "id": "VariableID:10521:25897",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#136EE7",
+              "aliasTo": "Blue/300"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/text-secondary",
+          "key": "68c7a28cd0a2a07215b518794b0ba89172d221b6",
+          "id": "VariableID:10521:25977",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#676767",
+              "aliasTo": "text-secondary"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/text-primary-disabled",
+          "key": "c2f2361a9951ae28f39cad7e2916e7680977539c",
+          "id": "VariableID:10521:25900",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#136EE780",
+              "aliasTo": "Blue/0"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/text-secondary-disabled",
+          "key": "ce3a36451a0b6236e98f1096fbc5486d378b786f",
+          "id": "VariableID:10521:25978",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#BBBBBB",
+              "aliasTo": "text-disabled"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/border-primary-hover",
+          "key": "7d58ab6fc8418b385be7d15d1cb1374e2dc99a7c",
+          "id": "VariableID:10521:25898",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#1E3BB5",
+              "aliasTo": "Blue/400"
+            }
+          }
+        },
+        {
+          "name": "AI Chip/border-secondary-hover",
+          "key": "6a77ad69199f8fe95438cceb54be3138ade90e2c",
+          "id": "VariableID:10521:25979",
+          "resolvedType": "COLOR",
+          "description": "",
+          "valuesByMode": {
+            "Mode 1": {
+              "value": "#161616",
+              "aliasTo": "Gray/600"
             }
           }
         }
@@ -2918,7 +3147,8 @@
       ],
       "variables": [
         {
-          "key": "Purple-100",
+          "name": "Purple-100",
+          "key": "3898308c61f515ce644c190e04a2adffa8acce4b",
           "id": "VariableID:2232:1550",
           "resolvedType": "COLOR",
           "description": "",
@@ -2929,7 +3159,8 @@
           }
         },
         {
-          "key": "Blue-100",
+          "name": "Blue-100",
+          "key": "8456a01414d97e6310eda3158565163172140f28",
           "id": "VariableID:2232:1551",
           "resolvedType": "COLOR",
           "description": "",
